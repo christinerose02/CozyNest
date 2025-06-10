@@ -1,0 +1,849 @@
+# Copyright (C) 2025 Cozy Nest Theme
+# This file is distributed under the same license as the Heaven Brew package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cozy Nest  1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/cozy-nest\n"
+"POT-Creation-Date: 2025-05-06T04:30:57.000Z\n"
+"PO-Revision-Date: 2025-05-08 17:47+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+"Domain: cozy-nest\n"
+
+#. --------------------------------------||
+#. NAVIGATION BAR
+#. --------------------------------------||
+#. Header
+msgid "Toggle navigation"
+msgstr "Jungkitkan navigasi"
+
+msgid "Home"
+msgstr "Rumah"
+
+msgid "Our Stays"
+msgstr "Tempat Tinggal Kami"
+
+msgid "Contact"
+msgstr "Kontak"
+
+msgid "Account"
+msgstr "Akun"
+
+#. ---------------------------------------
+#. Quicklinks
+#. ---------------------------------------
+#. --------------------------------------||
+#. ABOUT US PAGE
+#. --------------------------------------||
+#. About Us Description Section
+msgid "Cozy Nest Logo"
+msgstr "Logo Sarang yang Nyaman"
+
+msgid "Your cozy escape starts here."
+msgstr "Pelarian nyamanmu dimulai dari sini."
+
+msgid "Quick Links"
+msgstr "Tautan Cepat"
+
+msgid "About Us"
+msgstr "Tentang Kami"
+
+msgid "Testimonials"
+msgstr "Testimonial"
+
+msgid "Helpful Info"
+msgstr "Info Bermanfaat"
+
+msgid "FAQ"
+msgstr "FAQ (Tanda Tangan)"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. PRIVACY POLICY PAGE
+#. --------------------------------------||
+msgid "Privacy Policy"
+msgstr "Kebijakan Privasi"
+
+msgid "Follow Us"
+msgstr "Ikuti Kami"
+
+msgid "Facebook Logo"
+msgstr "Logo Facebook"
+
+msgid "Instagram Logo"
+msgstr "Logo Instagram"
+
+msgid "X Logo"
+msgstr "Logo X"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Footer
+msgid "All Rights Reserved."
+msgstr "Semua Hak Dilindungi."
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. HOMEPAGE OR INDEX PAGE
+#. --------------------------------------||
+#. ---------------------------------------
+#. Hero Section
+msgid "Escape to Serenity"
+msgstr "Melarikan Diri ke Ketenangan"
+
+msgid "Discover cozy and relaxing staycations nestled in nature."
+msgstr "Temukan tempat tinggal yang nyaman dan santai yang terletak di alam."
+
+msgid "Explore Stays"
+msgstr "Jelajahi Tetap"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Top Staycation Section
+msgid "Our Top Staycations"
+msgstr "Perhimpunan Teratas Kami"
+
+msgid "Nestled in the woods, fresh air and experience a peaceful retreat."
+msgstr "Terletak di hutan, udara segar dan mengalami retret damai."
+
+msgid "Wake up to ocean waves in our luxurious beachside retreat."
+msgstr "Bangun untuk gelombang laut di pantai mewah kami mundur."
+
+msgid "Mountain Lodge"
+msgstr "Pondok Gunung"
+
+msgid "Breathtaking views and fresh air await in the mountains."
+msgstr "Pemandangan yang menakjubkan dan udara segar menanti di pegunungan."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. About Us Section
+msgid "Why Choose Cozy Nest?"
+msgstr "Mengapa Memilih Sarang yang Nyaman?"
+
+msgid ""
+"Our handpicked locations provide the perfect escape from everyday life. "
+"Whether you seek adventure, relaxation, or a mix of both, our stays are "
+"designed for comfort and tranquility."
+msgstr ""
+"Lokasi kami yang dipilih sendiri memberikan jalan keluar yang sempurna dari "
+"kehidupan sehari-hari. Tidak soal Anda mencari petualangan, relaksasi, atau "
+"campuran keduanya, tempat tinggal kami dirancang untuk kenyamanan dan "
+"ketenangan."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Testimonials Section
+msgid "What Our Guests Say"
+msgstr "Apa Kata Tamu Kita"
+
+msgid "Testimonial Image"
+msgstr "Gambar Testimonial"
+
+msgid ""
+"The cabin stay was magical! Peaceful and cozy, I will definitely be back."
+msgstr "Kabin tinggal itu ajaib! Damai dan nyaman, aku pasti akan kembali."
+
+msgid "The beach villa exceeded our expectations and great service."
+msgstr "Villa di pantai melebihi harapan kami dan pelayanan yang baik."
+
+msgid ""
+"I had the most relaxing time at the lakeside retreat. Highly recommended!"
+msgstr ""
+"Aku punya waktu yang paling santai di retret tepi danau. Sangat "
+"direkomendasikan!"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Newsletter Section
+msgid "Sign Up for Exclusive Offers"
+msgstr "Mendaftar untuk Penawaran Eksklusif"
+
+msgid "Subscribe to get the latest staycation deals and updates."
+msgstr ""
+"Berlangganan untuk mendapatkan penawaran dan pembaruan staycation terbaru."
+
+msgid "Enter your email"
+msgstr "Masukkan surel Anda"
+
+msgid "Sign Up"
+msgstr "Mendaftar"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Us Section
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Form Section
+msgid "Contact Us"
+msgstr "Hubungi Kami"
+
+msgid ""
+"We'd love to hear from you! Reach out for any inquiries, feedback, or just "
+"to say hello."
+msgstr ""
+"Kami akan senang mendengar dari Anda! Menjangkau untuk setiap pertanyaan, "
+"umpan balik, atau hanya untuk menyapa."
+
+msgid "Full Name"
+msgstr "Nama Lengkap"
+
+msgid "Enter your full name"
+msgstr "Masukkan nama lengkap Anda"
+
+msgid "Email"
+msgstr "Surel"
+
+msgid "Message"
+msgstr "Pesan"
+
+msgid "Write your message here..."
+msgstr "Tulis pesanmu di sini..."
+
+msgid "Send Message"
+msgstr "Kirim Pesan"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. OUR STAYS PAGE
+#. --------------------------------------||
+#. ---------------------------------------
+#. Staycation Nav Categories Section
+msgid "Our Staycation"
+msgstr "Staycation Kami"
+
+msgid "All"
+msgstr "Semua"
+
+msgid "Beach & Waterfront"
+msgstr "Pantai & Tepi Laut"
+
+msgid "Nature Retreats"
+msgstr "Alam Mundur"
+
+msgid "Rustic & Cozy"
+msgstr "Rustic & Nyaman"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Staycation Cards Section
+msgid "Cozy Cabin"
+msgstr "Kabin Nyaman"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Popular Staycation Spots
+msgid "Sleeps:"
+msgstr "Tidur:"
+
+msgid "Rating:"
+msgstr "Peringkat:"
+
+msgid "Check-in:"
+msgstr "Check-in:"
+
+msgid "Nestled in the woods, enjoy fresh air and a peaceful retreat."
+msgstr "Berada di hutan, menikmati udara segar dan mundur dengan damai."
+
+msgid "₱3,200/night"
+msgstr "₱3.200/malam"
+
+msgid "View Details"
+msgstr "Lihat Rincian"
+
+msgid "₱3,800/night"
+msgstr "₱3.800/malam"
+
+msgid "Lakeside Retreat"
+msgstr "Mundur dari Tepi Danau"
+
+msgid ""
+"Relax by water with stunning lakeside views that gentle ripples and create a "
+"calming rhythm."
+msgstr ""
+"Relaksasi oleh air dengan pemandangan tepi danau yang menakjubkan yang "
+"lembut dan menciptakan irama yang menenangkan."
+
+msgid "₱3,500/night"
+msgstr "₱3.500/malam"
+
+msgid "Forest Hideaway"
+msgstr "Tempat Persembunyian Hutan"
+
+msgid "Escape into nature with a secluded forest retreat."
+msgstr "Melarikan diri ke alam dengan hutan terpencil mundur."
+
+msgid "₱2,900/night"
+msgstr "₱2.900/malam"
+
+msgid "Hillside Haven"
+msgstr "Bukit Haven"
+
+msgid "Wake up to misty mornings and panoramic hillside views."
+msgstr "Bangun pagi berkabut dan panorama pemandangan bukit."
+
+msgid "₱3,100/night"
+msgstr "₱3.100/malam"
+
+msgid "Pinecrest Chalet"
+msgstr "[ Gambar di hlm."
+
+msgid "Cozy up in a charming chalet surrounded by pine trees."
+msgstr "Nyaman di dalam cawan yang menawan dikelilingi oleh pohon pinus."
+
+msgid "₱3,400/night"
+msgstr "₱3.400/malam"
+
+msgid "Beach Villa"
+msgstr "Villa Pantai"
+
+msgid "₱4,500/night"
+msgstr "₱4.500/malam"
+
+msgid "Seaside Bungalow"
+msgstr "Tepi Laut Bungalow"
+
+msgid ""
+"Experience the charm of coastal living to a serene haven where the waves "
+"meets"
+msgstr ""
+"Rasakan pesona kehidupan pesisir ke tempat yang tenang di mana gelombang "
+"bertemu"
+
+msgid "Riverfront Haven"
+msgstr "Pegunungan Riverfront"
+
+msgid ""
+"Calm river views and quiet mornings await in the soothing sounds of gently "
+"flowing water."
+msgstr ""
+"Pemandangan sungai yang tenang dan pagi yang tenang menanti - nantikan suara "
+"air yang mengalir dengan lembut."
+
+msgid "₱4,000/night"
+msgstr "₱4.000/malam"
+
+msgid "Tropical Paradise"
+msgstr "Firdaus Tropis"
+
+msgid ""
+"Sun, sand, and serenity in every stay beachside retreat where the sun kisses "
+"your skin,"
+msgstr ""
+"Matahari, pasir, dan ketenangan di setiap retret pantai tinggal di mana "
+"matahari mencium kulit Anda,"
+
+msgid "₱4,700/night"
+msgstr "₱4.700/malam"
+
+msgid "Coastal Cottage"
+msgstr "[ Gambar di hlm."
+
+msgid ""
+"Chill out with ocean breezes and coastal charm sweep over you as you unwind "
+"in a cozy retreat."
+msgstr ""
+"Bersantai dengan angin laut dan pesona pantai menyapu Anda saat Anda "
+"bersantai di retret yang nyaman."
+
+msgid "₱3,900/night"
+msgstr "₱3.900/malam"
+
+msgid "Coral Sands Retreat"
+msgstr "Pasir Terumbu Karang Mundur"
+
+msgid "Soak in the sun with beachfront views and gentle waves."
+msgstr ""
+"Berendam di bawah sinar matahari dengan pemandangan tepi pantai dan "
+"gelombang lembut."
+
+msgid "₱4,400/night"
+msgstr "₱4.400/malam"
+
+msgid "Skyline Penthouse"
+msgstr "[ Gambar di hlm."
+
+msgid "Luxury and city lights from your private penthouse."
+msgstr "Mewah dan lampu kota dari penthouse pribadi Anda."
+
+msgid "₱5,200/night"
+msgstr "₱5.200/malam"
+
+msgid "Urban Loft"
+msgstr "Loft Perkotaan"
+
+msgid ""
+"Stylish and modern city experience where urban sophistication meets "
+"contemporary comfort."
+msgstr ""
+"Pengalaman kota yang bergaya dan modern di mana kecanggihan kota memenuhi "
+"kenyamanan kontemporer."
+
+msgid "Garden Villa"
+msgstr "Villa Taman"
+
+msgid ""
+"Greenery and elegance in the heart of city to urban oasis where greenery "
+"meets."
+msgstr ""
+"Kehijauan dan keanggunan di jantung kota ke oasis perkotaan di mana "
+"kehijauan bertemu."
+
+msgid "₱4,200/night"
+msgstr "₱4.200/malam"
+
+msgid "Rustic Barnhouse"
+msgstr "[ Gambar di hlm."
+
+msgid ""
+"Charming rustic vibes with comfort space that effortlessly combines warmth "
+"of rustic charm."
+msgstr ""
+"Getaran pedesaan yang menawan dengan ruang yang nyaman yang dengan mudah "
+"memadukan kehangatan pesona pedesaan."
+
+msgid "₱3,300/night"
+msgstr "₱3.300/malam"
+
+msgid "The Olive House"
+msgstr "Rumah Zaitun"
+
+msgid "A peaceful modern home tucked in a quiet city neighborhood."
+msgstr ""
+"Sebuah rumah modern yang damai terselip di lingkungan kota yang tenang."
+
+msgid "₱4,100/night"
+msgstr "₱4.100/malam"
+
+msgid "Brickstone House"
+msgstr "Rumah Brickstone"
+
+msgid "Classic charm meets city convenience in this full private home."
+msgstr "Pesona klasik memenuhi kenyamanan kota di rumah pribadi penuh ini."
+
+msgid "₱4,300/night"
+msgstr "₱4.300/malam"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. SINGLE STAYCATION PAGE
+#. --------------------------------------||
+#. Single Staycation Section
+msgid "Overnight"
+msgstr "Dalam semalam"
+
+msgid "Weekend Getaway"
+msgstr "Liburan Akhir Pekan"
+
+msgid "Full Week"
+msgstr "Minggu Penuh"
+
+msgid "Breakfast Included"
+msgstr "Termasuk Sarapan"
+
+msgid "Late Checkout"
+msgstr "Pemeriksaan Terlambat"
+
+msgid "Spa Access"
+msgstr "Akses Spa"
+
+msgid "Airport Pickup"
+msgstr "Penjemputan Bandara"
+
+msgid "Book Your Stay"
+msgstr "Pesan Tempat Tinggal Anda"
+
+msgid "Number of Adults"
+msgstr "Jumlah Orang Dewasa"
+
+msgid "Number of Kids"
+msgstr "Jumlah Anak-anak"
+
+msgid "Check-In Date"
+msgstr "Tanggal Check-In"
+
+msgid "Check-Out Date"
+msgstr "Tanggal Check-Out"
+
+msgid "Choose Duration:"
+msgstr "Pilih Durasi:"
+
+msgid "Add Extras:"
+msgstr "Tambah Tambahan:"
+
+msgid "Book Now"
+msgstr "Pesan Sekarang"
+
+msgid "Staycation package not found."
+msgstr "Paket staycation tidak ditemukan."
+
+msgid "Popular Staycation Spots"
+msgstr "Spot-spot Staycation yang Populer"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. CONTACT US PAGE
+#. --------------------------------------||
+#. Contact Header
+msgid "Let’s Make Your Stay Memorable 💌"
+msgstr "Mari Membuat Anda Tetap Mengesankan 💌"
+
+msgid "Have questions or special requests? We’re just a message away!"
+msgstr "Punya pertanyaan atau permintaan khusus? Kami hanya pesan pergi!"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Us Location Section
+msgid "Get in Touch 🌿"
+msgstr "Dapatkan di Touch 🌿"
+
+msgid "Address:"
+msgstr "Alamat:"
+
+msgid "Brgy. Peaceful Pines, Tagaytay"
+msgstr "Brgy, pinus yang damai, Tagaytay"
+
+msgid "Phone:"
+msgstr "Telepon:"
+
+msgid "Email:"
+msgstr "email:"
+
+msgid "Hours:"
+msgstr "Jam:"
+
+msgid "Open Daily: 9:00 AM – 6:00 PM"
+msgstr "Buka Harian: 9:00 AM – 6:00 PM"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. ACCOUNT PAGE
+#. --------------------------------------||
+#. Sign Up & Sign In Form Section
+msgid "Cozy Nest"
+msgstr "Sarang yang Nyaman"
+
+msgid "Log in with your account"
+msgstr "Masuk dengan akun Anda"
+
+msgid "Enter Email Address"
+msgstr "Masukkan Alamat Surel"
+
+msgid "Password"
+msgstr "Kata Sandi"
+
+msgid "Enter Password"
+msgstr "Masukkan Kata Sandi"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Don't have an account?"
+msgstr "Jangan punya rekening?"
+
+msgid "Create an Account"
+msgstr "Buat Akun"
+
+msgid "Enter Full Name"
+msgstr "Masukkan Nama penuh"
+
+msgid "Already have an account?"
+msgstr "Sudah punya akun?"
+
+msgid "Welcome to Cozy-Nest 🌿"
+msgstr "Selamat datang untuk nyaman-Nest 🌿"
+
+msgid ""
+"At cozy-nest, we believe that comfort, calm, and connection should be at the "
+"heart of every getaway."
+msgstr ""
+"Di sarang yang nyaman, kami percaya bahwa kenyamanan, ketenangan, dan "
+"koneksi harus menjadi inti dari setiap liburan."
+
+msgid ""
+"Born from the idea of creating meaningful escapes, cozy-nest is your home "
+"away from home — whether"
+msgstr ""
+"Terlahir dari gagasan untuk menciptakan pelarian yang berarti, sarang yang "
+"nyaman adalah rumah Anda yang jauh dari rumah — apakah"
+
+msgid ""
+"you're nestled in a cabin in the woods, unwinding by the beach, or enjoying "
+"the charm of a rustic barnhouse."
+msgstr ""
+"Anda bersarang di sebuah kabin di hutan, melepaskan diri oleh pantai, atau "
+"menikmati pesona sebuah gudang pedesaan."
+
+msgid ""
+"Our carefully curated staycations are designed to help you pause, breathe, "
+"and reconnect — with nature,"
+msgstr ""
+"Tempat tinggal kami yang telah dikurasi dengan cermat dirancang untuk "
+"membantu Anda berhenti sejenak, bernapas, dan berhubungan kembali — dengan "
+"alam,"
+
+msgid "with your loved ones, and with yourself."
+msgstr "dengan orang yang kau cintai, dan dengan dirimu sendiri."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Our Story Section
+msgid "Our Story"
+msgstr "Kisah Kita"
+
+msgid "cozy-nest"
+msgstr "sarang yang nyaman"
+
+msgid "started with a simple mission:"
+msgstr "dimulai dengan misi sederhana:"
+
+msgid "To make every stay feel like a warm hug."
+msgstr "Untuk membuat setiap tinggal merasa seperti pelukan hangat."
+
+msgid ""
+"We noticed that people craved not just vacations, but intentional "
+"experiences."
+msgstr ""
+"Kami memperhatikan bahwa orang-orang tidak hanya mendambakan liburan, tetapi "
+"juga pengalaman yang disengaja."
+
+msgid "Not just a place to stay, but a place to belong. And so,"
+msgstr "Bukan hanya tempat tinggal, tapi tempat yang seharusnya. Jadi,"
+
+msgid ""
+"was born — a collection of charming and cozy spots designed for comfort, "
+"relaxation, and joy."
+msgstr ""
+"lahir — koleksi tempat - tempat yang menawan dan nyaman yang dirancang untuk "
+"kenyamanan, relaksasi, dan sukacita."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. What Make Us Special Section
+msgid "What Makes Us Special"
+msgstr "Apa yang Membuat Kita Istimewa"
+
+msgid "Handpicked Stays"
+msgstr "Tinggal Pilih Sendiri"
+
+msgid ""
+"Each location is chosen for its unique charm, natural beauty, and cozy "
+"ambiance."
+msgstr ""
+"Setiap lokasi dipilih karena pesona yang unik, keindahan alam, dan "
+"suasananya yang nyaman."
+
+msgid "Comfort-First Philosophy"
+msgstr "Filosofi Penghiburan-Pertama"
+
+msgid "From soft linens to calming aesthetics, we prioritize your comfort."
+msgstr ""
+"Mulai dari linen lembut hingga estetika menenangkan, kami memprioritaskan "
+"kenyamanan Anda."
+
+msgid "Nature-Inspired Escapes"
+msgstr "Lolos yang Terinspirasi Alam"
+
+msgid "Reconnect with nature in serene, picturesque surroundings."
+msgstr "Berhubungan kembali dengan alam yang tenang, lingkungan yang indah."
+
+msgid "Perfect for All"
+msgstr "Sempurna untuk Semua"
+
+msgid ""
+"Whether you're a solo traveler, couple, family, or group of friends, there's "
+"a cozy-nest for you."
+msgstr ""
+"Apakah Anda seorang solo traveler, pasangan, keluarga, atau sekelompok "
+"teman, ada sebuah sarang yang nyaman untuk Anda."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Our Promise Section
+msgid "Our Promise"
+msgstr "Janji Kami"
+
+msgid "We’re more than just a place to stay."
+msgstr "Kami lebih dari sekedar tempat tinggal."
+
+msgid "We’re a feeling."
+msgstr "Kami adalah perasaan."
+
+msgid ""
+"A warm, safe, and inspiring space — thoughtfully designed just for you. "
+"Whether you're unwinding for the weekend or creating new memories, cozy-nest "
+"is your home of comfort and calm."
+msgstr ""
+"Ruang yang hangat, aman, dan penuh inspirasi — dirancang dengan cermat hanya "
+"untuk Anda. Entah Anda sedang bersantai di akhir pekan atau menciptakan "
+"kenangan baru, tempat yang nyaman adalah rumah Anda yang nyaman dan tenang."
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. FAQ PAGE
+#. --------------------------------------||
+msgid "Frequently Asked Questions"
+msgstr "Sering kali Meminta Pertanyaan"
+
+msgid "What is cozy-nest?"
+msgstr "Apa itu sarang yang nyaman?"
+
+msgid ""
+"cozy-nest is your ultimate staycation destination, providing a serene and "
+"cozy experience for everyone."
+msgstr ""
+"Nyaman-sarang adalah tujuan menginap utama Anda, memberikan pengalaman yang "
+"tenang dan nyaman bagi semua orang."
+
+msgid "How do I make a reservation?"
+msgstr "Bagaimana cara membuat reservasi?"
+
+msgid ""
+"You can make a reservation directly through our website by filling out the "
+"booking form or contacting us directly."
+msgstr ""
+"Anda dapat melakukan pemesanan langsung melalui website kami dengan mengisi "
+"formulir pemesanan atau menghubungi kami secara langsung."
+
+msgid "What are the amenities offered?"
+msgstr "Apa saja fasilitas yang ditawarkan?"
+
+msgid ""
+"We offer a range of amenities including a spa, pool, free Wi-Fi, and "
+"comfortable rooms with scenic views."
+msgstr ""
+"Kami menawarkan berbagai fasilitas termasuk spa, kolam renang, Wi-Fi gratis, "
+"dan kamar yang nyaman dengan pemandangan yang indah."
+
+msgid "What is the check-in/check-out time?"
+msgstr "Berapa waktu check-in/check-out?"
+
+msgid ""
+"Check-in time is from 2:00 PM, and check-out is by 12:00 PM. Special "
+"arrangements can be made upon request."
+msgstr ""
+"Waktu check-in adalah dari 2:00 PM, dan check-out adalah oleh 12:00 PM. "
+"Pengaturan khusus dapat dibuat atas permintaan."
+
+msgid "Do you provide transportation services?"
+msgstr "Apakah Anda memberikan layanan transportasi?"
+
+msgid ""
+"Yes, we provide transportation services to and from the nearest airport and "
+"bus terminals. Please contact us for more details."
+msgstr ""
+"Ya, kami menyediakan layanan transportasi menuju dan dari terminal bandara "
+"dan bus terdekat. Silahkan hubungi kami untuk rincian lebih lanjut."
+
+msgid "Is breakfast included in the package?"
+msgstr "Apakah sarapan termasuk dalam paket?"
+
+msgid ""
+"Yes, breakfast is included in all staycation packages. Enjoy a variety of "
+"fresh, locally sourced breakfast options each morning."
+msgstr ""
+"Ya, sarapan termasuk dalam semua paket staycation. Nikmati berbagai pilihan "
+"sarapan yang segar dan bersumber dari daerah setempat setiap pagi."
+
+msgid "Can I bring pets to cozy-nest?"
+msgstr "Dapatkah saya membawa hewan peliharaan ke sarang yang nyaman?"
+
+msgid ""
+"We are a pet-friendly facility! You are welcome to bring your furry friends. "
+"Please inform us in advance for any special accommodations."
+msgstr ""
+"Kami adalah fasilitas ramah hewan peliharaan! Anda dipersilakan untuk "
+"membawa teman-teman berbulu Anda. Tolong beritahu kami terlebih dahulu untuk "
+"akomodasi khusus."
+
+msgid "What is your cancellation policy?"
+msgstr "Apa kebijakan pembatalan Anda?"
+
+msgid ""
+"Our cancellation policy allows free cancellation up to 48 hours before your "
+"check-in date. After that, a cancellation fee will apply."
+msgstr ""
+"Kebijakan pembatalan kami memungkinkan pembatalan gratis hingga 48 jam "
+"sebelum tanggal check-in Anda. Setelah itu, biaya pembatalan akan berlaku."
+
+msgid "Last updated:"
+msgstr "Terakhir diperbarui:"
+
+msgid "1. Information We Collect"
+msgstr "1. Informasi yang Kami Kumpulkan"
+
+msgid ""
+"At cozy-nest, we value your privacy. We only collect personal data when it’s "
+"necessary for a cozy and seamless booking experience. This may include:"
+msgstr ""
+"Di tempat yang nyaman, kami menghargai privasimu. Kami hanya mengumpulkan "
+"data pribadi ketika diperlukan untuk pengalaman pemesanan yang nyaman dan "
+"mulus. Ini dapat mencakup:"
+
+msgid "Name, email, and contact details (when making a reservation)"
+msgstr "Nama, email, dan detail kontak (saat melakukan reservasi)"
+
+msgid "Preferences to personalize your stay"
+msgstr "Preferensi untuk mempersonalisasi Anda tinggal"
+
+msgid "Cookies for website functionality and analytics"
+msgstr "Cookie untuk fungsionalitas dan analisis situs web"
+
+msgid "2. How We Use Your Information"
+msgstr "2. Bagaimana Kami Menggunakan Informasi Anda"
+
+msgid ""
+"Your data helps us provide personalized staycation experiences, enhance our "
+"services, and ensure smooth communication with you."
+msgstr ""
+"Data Anda membantu kami memberikan pengalaman menginap pribadi, meningkatkan "
+"layanan kami, dan memastikan kelancaran komunikasi dengan Anda."
+
+msgid "3. Cookies"
+msgstr "3. Kue"
+
+msgid ""
+"We use cookies to remember your preferences and improve our site "
+"performance. You can manage your cookie settings through your browser."
+msgstr ""
+"Kami menggunakan cookie untuk mengingat preferensi Anda dan meningkatkan "
+"kinerja situs kami. Anda dapat mengelola pengaturan cookie Anda melalui "
+"browser Anda."
+
+msgid "4. Third-Party Services"
+msgstr "4. Layanan Pihak Ketiga "
+
+msgid ""
+"We may use trusted third-party services (like payment gateways or analytics "
+"tools) that collect data as needed. Please review their policies for more "
+"information."
+msgstr ""
+"Kita dapat menggunakan layanan pihak ketiga terpercaya (seperti gateway "
+"pembayaran atau alat analisis) yang mengumpulkan data sesuai kebutuhan. "
+"Tinjau kebijakan mereka untuk informasi lebih lanjut."
+
+msgid "5. Your Rights"
+msgstr "5. Hak Anda"
+
+msgid ""
+"You have the right to access, update, or delete your personal data. We’re "
+"here to help you with that anytime."
+msgstr ""
+"Anda berhak mengakses, memperbarui, atau menghapus data pribadi Anda. Kami "
+"di sini untuk membantu Anda dengan itu kapan saja."
+
+msgid "6. Contact Us"
+msgstr "6. Hubungi Kami"
+
+msgid "Questions about our privacy policy? Let’s chat! Reach out to us at:"
+msgstr ""
+"Pertanyaan tentang kebijakan privasi kami? Mari kita bicara! Hubungi kami di:"
+
+msgid "hello@cozy-nest.com"
+msgstr "halo@cozy-nest.com"
