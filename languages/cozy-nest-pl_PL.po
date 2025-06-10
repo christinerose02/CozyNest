@@ -1,0 +1,855 @@
+# Copyright (C) 2025 Cozy Nest Theme
+# This file is distributed under the same license as the Heaven Brew package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cozy Nest  1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/cozy-nest\n"
+"POT-Creation-Date: 2025-05-06T04:30:57.000Z\n"
+"PO-Revision-Date: 2025-05-07 17:40+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+"Domain: cozy-nest\n"
+
+#. --------------------------------------||
+#. NAVIGATION BAR
+#. --------------------------------------||
+#. Header
+msgid "Toggle navigation"
+msgstr "Przełącz nawigację"
+
+msgid "Home"
+msgstr "Dom"
+
+msgid "Our Stays"
+msgstr "Nasze Pobyty"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+msgid "Account"
+msgstr "Konto"
+
+#. ---------------------------------------
+#. Quicklinks
+#. ---------------------------------------
+#. --------------------------------------||
+#. ABOUT US PAGE
+#. --------------------------------------||
+#. About Us Description Section
+msgid "Cozy Nest Logo"
+msgstr "Logo przytulnego gniazda"
+
+msgid "Your cozy escape starts here."
+msgstr "Twoja przytulna oaza spokoju zaczyna się tutaj."
+
+msgid "Quick Links"
+msgstr "Szybkie linki"
+
+msgid "About Us"
+msgstr "O nas"
+
+msgid "Testimonials"
+msgstr "Referencje"
+
+msgid "Helpful Info"
+msgstr "Przydatne informacje"
+
+msgid "FAQ"
+msgstr "Często zadawane pytania"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. PRIVACY POLICY PAGE
+#. --------------------------------------||
+msgid "Privacy Policy"
+msgstr "Polityka prywatności"
+
+msgid "Follow Us"
+msgstr "Śledź nas"
+
+msgid "Facebook Logo"
+msgstr "Logo Facebooka"
+
+msgid "Instagram Logo"
+msgstr "Logo Instagrama"
+
+msgid "X Logo"
+msgstr "Logo X"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Footer
+msgid "All Rights Reserved."
+msgstr "Wszelkie prawa zastrzeżone."
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. HOMEPAGE OR INDEX PAGE
+#. --------------------------------------||
+#. ---------------------------------------
+#. Hero Section
+msgid "Escape to Serenity"
+msgstr "Ucieczka do spokoju"
+
+msgid "Discover cozy and relaxing staycations nestled in nature."
+msgstr "Odkryj przytulne i relaksujące wakacje w otoczeniu natury."
+
+msgid "Explore Stays"
+msgstr "Przeglądaj pobyty"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Top Staycation Section
+msgid "Our Top Staycations"
+msgstr "Nasze najlepsze miejsca na wakacje"
+
+msgid "Nestled in the woods, fresh air and experience a peaceful retreat."
+msgstr ""
+"Położony wśród lasu, ciesz się świeżym powietrzem i zaznaj spokojnego "
+"wypoczynku."
+
+msgid "Wake up to ocean waves in our luxurious beachside retreat."
+msgstr ""
+"Obudź się przy dźwiękach fal oceanu w naszym luksusowym ośrodku nadmorskim."
+
+msgid "Mountain Lodge"
+msgstr "Górska Chata"
+
+msgid "Breathtaking views and fresh air await in the mountains."
+msgstr ""
+"W górach czekają na Ciebie zapierające dech w piersiach widoki i świeże "
+"powietrze."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. About Us Section
+msgid "Why Choose Cozy Nest?"
+msgstr "Dlaczego warto wybrać Cozy Nest?"
+
+msgid ""
+"Our handpicked locations provide the perfect escape from everyday life. "
+"Whether you seek adventure, relaxation, or a mix of both, our stays are "
+"designed for comfort and tranquility."
+msgstr ""
+"Nasze starannie wybrane lokalizacje zapewniają idealną ucieczkę od "
+"codzienności. Niezależnie od tego, czy szukasz przygody, relaksu, czy też "
+"połączenia obu, nasze pobyty są zaprojektowane tak, aby zapewnić wygodę i "
+"spokój."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Testimonials Section
+msgid "What Our Guests Say"
+msgstr "Co mówią nasi goście"
+
+msgid "Testimonial Image"
+msgstr "Obrazek referencyjny"
+
+msgid ""
+"The cabin stay was magical! Peaceful and cozy, I will definitely be back."
+msgstr "Pobyt w domku był magiczny! Spokojny i przytulny, na pewno wrócę."
+
+msgid "The beach villa exceeded our expectations and great service."
+msgstr "Willa na plaży przerosła nasze oczekiwania, a obsługa była wspaniała."
+
+msgid ""
+"I had the most relaxing time at the lakeside retreat. Highly recommended!"
+msgstr ""
+"Miałem najbardziej relaksujący czas w Lakeside Retreat. Gorąco polecam!"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Newsletter Section
+msgid "Sign Up for Exclusive Offers"
+msgstr "Zarejestruj się, aby otrzymywać ekskluzywne oferty"
+
+msgid "Subscribe to get the latest staycation deals and updates."
+msgstr ""
+"Zapisz się, aby otrzymywać najnowsze oferty i aktualności dotyczące urlopu w "
+"domu."
+
+msgid "Enter your email"
+msgstr "Wpisz swój adres e-mail"
+
+msgid "Sign Up"
+msgstr "Zapisać się"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Us Section
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Form Section
+msgid "Contact Us"
+msgstr "Skontaktuj się z nami"
+
+msgid ""
+"We'd love to hear from you! Reach out for any inquiries, feedback, or just "
+"to say hello."
+msgstr ""
+"Chcielibyśmy usłyszeć od Ciebie! Skontaktuj się z nami w sprawie wszelkich "
+"pytań, opinii lub po prostu, aby się przywitać."
+
+msgid "Full Name"
+msgstr "Pełne imię i nazwisko"
+
+msgid "Enter your full name"
+msgstr "Wpisz swoje pełne imię i nazwisko"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Message"
+msgstr "Wiadomość"
+
+msgid "Write your message here..."
+msgstr "Napisz swoją wiadomość tutaj..."
+
+msgid "Send Message"
+msgstr "Wyślij wiadomość"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. OUR STAYS PAGE
+#. --------------------------------------||
+#. ---------------------------------------
+#. Staycation Nav Categories Section
+msgid "Our Staycation"
+msgstr "Nasz pobyt"
+
+msgid "All"
+msgstr "Wszystko"
+
+msgid "Beach & Waterfront"
+msgstr "Plaża i nabrzeże"
+
+msgid "Nature Retreats"
+msgstr "Rekolekcje przyrodnicze"
+
+msgid "Rustic & Cozy"
+msgstr "Rustykalny i przytulny"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Staycation Cards Section
+msgid "Cozy Cabin"
+msgstr "Przytulna kabina"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Popular Staycation Spots
+msgid "Sleeps:"
+msgstr "Śpi:"
+
+msgid "Rating:"
+msgstr "Ocena:"
+
+msgid "Check-in:"
+msgstr "Zameldować się:"
+
+msgid "Nestled in the woods, enjoy fresh air and a peaceful retreat."
+msgstr "Położony wśród lasu, obiekt oferuje świeże powietrze i spokój."
+
+msgid "₱3,200/night"
+msgstr "₱3,200/noc"
+
+msgid "View Details"
+msgstr "Zobacz szczegóły"
+
+msgid "₱3,800/night"
+msgstr "₱3,800/noc"
+
+msgid "Lakeside Retreat"
+msgstr "Odosobnienie nad jeziorem"
+
+msgid ""
+"Relax by water with stunning lakeside views that gentle ripples and create a "
+"calming rhythm."
+msgstr ""
+"Zrelaksuj się nad wodą i podziwiaj zachwycający widok na jezioro, którego "
+"łagodne fale tworzą uspokajający rytm."
+
+msgid "₱3,500/night"
+msgstr "₱3,500/noc"
+
+msgid "Forest Hideaway"
+msgstr "Leśna kryjówka"
+
+msgid "Escape into nature with a secluded forest retreat."
+msgstr "Ucieknij na łono natury, udając się do odosobnionego leśnego zakątka."
+
+msgid "₱2,900/night"
+msgstr "₱2900/noc"
+
+msgid "Hillside Haven"
+msgstr "Przystań na wzgórzu"
+
+msgid "Wake up to misty mornings and panoramic hillside views."
+msgstr ""
+"Obudź się przy mglistych porankach i podziwiaj panoramiczne widoki na "
+"wzgórza."
+
+msgid "₱3,100/night"
+msgstr "₱3,100/noc"
+
+msgid "Pinecrest Chalet"
+msgstr "Domek Pinecrest"
+
+msgid "Cozy up in a charming chalet surrounded by pine trees."
+msgstr "Rozgość się w uroczym domku otoczonym sosnami."
+
+msgid "₱3,400/night"
+msgstr "₱3,400/noc"
+
+msgid "Beach Villa"
+msgstr "Willa na plaży"
+
+msgid "₱4,500/night"
+msgstr "₱4,500/noc"
+
+msgid "Seaside Bungalow"
+msgstr "Bungalow nad morzem"
+
+msgid ""
+"Experience the charm of coastal living to a serene haven where the waves "
+"meets"
+msgstr ""
+"Odkryj urok życia na wybrzeżu i ciesz się spokojną przystanią, gdzie "
+"spotykają się fale"
+
+msgid "Riverfront Haven"
+msgstr "Przystań nad rzeką"
+
+msgid ""
+"Calm river views and quiet mornings await in the soothing sounds of gently "
+"flowing water."
+msgstr ""
+"Spokojne widoki rzeki i ciche poranki czekają na Ciebie wśród kojących "
+"dźwięków delikatnie płynącej wody."
+
+msgid "₱4,000/night"
+msgstr "₱4,000/noc"
+
+msgid "Tropical Paradise"
+msgstr "Tropikalny raj"
+
+msgid ""
+"Sun, sand, and serenity in every stay beachside retreat where the sun kisses "
+"your skin,"
+msgstr ""
+"Słońce, piasek i spokój w każdym miejscu pobytu w nadmorskim kurorcie, gdzie "
+"słońce muska Twoją skórę,"
+
+msgid "₱4,700/night"
+msgstr "₱4,700/noc"
+
+msgid "Coastal Cottage"
+msgstr "Domek Nadmorski"
+
+msgid ""
+"Chill out with ocean breezes and coastal charm sweep over you as you unwind "
+"in a cozy retreat."
+msgstr ""
+"Zrelaksuj się w przytulnym zaciszu, otoczony morską bryzą i nadmorskim "
+"urokiem."
+
+msgid "₱3,900/night"
+msgstr "₱3,900/noc"
+
+msgid "Coral Sands Retreat"
+msgstr "Ośrodek wypoczynkowy Coral Sands"
+
+msgid "Soak in the sun with beachfront views and gentle waves."
+msgstr "Rozkoszuj się słońcem, podziwiając widok na plażę i łagodne fale."
+
+msgid "₱4,400/night"
+msgstr "₱4,400/noc"
+
+msgid "Skyline Penthouse"
+msgstr "Penthouse Skyline"
+
+msgid "Luxury and city lights from your private penthouse."
+msgstr "Luksus i miejskie światła z Twojego prywatnego penthouse'u."
+
+msgid "₱5,200/night"
+msgstr "₱5,200/noc"
+
+msgid "Urban Loft"
+msgstr "Miejski loft"
+
+msgid ""
+"Stylish and modern city experience where urban sophistication meets "
+"contemporary comfort."
+msgstr ""
+"Stylowe i nowoczesne doświadczenie miejskie, gdzie miejska wyrafinowana "
+"atmosfera łączy się ze współczesnym komfortem."
+
+msgid "Garden Villa"
+msgstr "Willa ogrodowa"
+
+msgid ""
+"Greenery and elegance in the heart of city to urban oasis where greenery "
+"meets."
+msgstr ""
+"Zieleń i elegancja w sercu miasta, miejska oaza, gdzie zieleń spotyka się z "
+"naturą."
+
+msgid "₱4,200/night"
+msgstr "₱4,200/noc"
+
+msgid "Rustic Barnhouse"
+msgstr "Rustykalna stodoła"
+
+msgid ""
+"Charming rustic vibes with comfort space that effortlessly combines warmth "
+"of rustic charm."
+msgstr ""
+"Urocze, rustykalne klimaty i komfortowa przestrzeń, która w prosty sposób "
+"łączy w sobie ciepło rustykalnego uroku."
+
+msgid "₱3,300/night"
+msgstr "₱3300/noc"
+
+msgid "The Olive House"
+msgstr "Dom Oliwny"
+
+msgid "A peaceful modern home tucked in a quiet city neighborhood."
+msgstr "Spokojny, nowoczesny dom położony w spokojnej dzielnicy miasta."
+
+msgid "₱4,100/night"
+msgstr "₱4,100/noc"
+
+msgid "Brickstone House"
+msgstr "Dom z cegły"
+
+msgid "Classic charm meets city convenience in this full private home."
+msgstr ""
+"Klasyczny urok łączy się z miejską wygodą w tym w pełni prywatnym domu."
+
+msgid "₱4,300/night"
+msgstr "₱4300/noc"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. SINGLE STAYCATION PAGE
+#. --------------------------------------||
+#. Single Staycation Section
+msgid "Overnight"
+msgstr "Nocny"
+
+msgid "Weekend Getaway"
+msgstr "Weekendowy wypad"
+
+msgid "Full Week"
+msgstr "Pełny tydzień"
+
+msgid "Breakfast Included"
+msgstr "Śniadanie wliczone w cenę"
+
+msgid "Late Checkout"
+msgstr "Późne wymeldowanie"
+
+msgid "Spa Access"
+msgstr "Dostęp do spa"
+
+msgid "Airport Pickup"
+msgstr "Odbiór z lotniska"
+
+msgid "Book Your Stay"
+msgstr "Zarezerwuj pobyt"
+
+msgid "Number of Adults"
+msgstr "Liczba dorosłych"
+
+msgid "Number of Kids"
+msgstr "Liczba dzieci"
+
+msgid "Check-In Date"
+msgstr "Data zameldowania"
+
+msgid "Check-Out Date"
+msgstr "Data wymeldowania"
+
+msgid "Choose Duration:"
+msgstr "Wybierz czas trwania:"
+
+msgid "Add Extras:"
+msgstr "Dodaj dodatki:"
+
+msgid "Book Now"
+msgstr "Zarezerwuj teraz"
+
+msgid "Staycation package not found."
+msgstr "Nie znaleziono pakietu Staycation."
+
+msgid "Popular Staycation Spots"
+msgstr "Popularne miejsca na staycation"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. CONTACT US PAGE
+#. --------------------------------------||
+#. Contact Header
+msgid "Let’s Make Your Stay Memorable 💌"
+msgstr "Uczyńmy Twój pobyt niezapomnianym 💌"
+
+msgid "Have questions or special requests? We’re just a message away!"
+msgstr "Masz pytania lub specjalne życzenia? Jesteśmy tylko wiadomość dalej!"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Us Location Section
+msgid "Get in Touch 🌿"
+msgstr "Skontaktuj się z nami 🌿"
+
+msgid "Address:"
+msgstr "Adres:"
+
+msgid "Brgy. Peaceful Pines, Tagaytay"
+msgstr "Brgy. Spokojne sosny, Tagaytay"
+
+msgid "Phone:"
+msgstr "Telefon:"
+
+msgid "Email:"
+msgstr "E-mail:"
+
+msgid "Hours:"
+msgstr "Godziny:"
+
+msgid "Open Daily: 9:00 AM – 6:00 PM"
+msgstr "Otwarte codziennie: 9:00 – 18:00"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. ACCOUNT PAGE
+#. --------------------------------------||
+#. Sign Up & Sign In Form Section
+msgid "Cozy Nest"
+msgstr "Przytulne Gniazdo"
+
+msgid "Log in with your account"
+msgstr "Zaloguj się na swoje konto"
+
+msgid "Enter Email Address"
+msgstr "Wprowadź adres e-mail"
+
+msgid "Password"
+msgstr "Hasło"
+
+msgid "Enter Password"
+msgstr "Wprowadź hasło"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Don't have an account?"
+msgstr "Nie masz konta?"
+
+msgid "Create an Account"
+msgstr "Utwórz konto"
+
+msgid "Enter Full Name"
+msgstr "Wpisz pełne imię i nazwisko"
+
+msgid "Already have an account?"
+msgstr "Masz już konto?"
+
+msgid "Welcome to Cozy-Nest 🌿"
+msgstr "Witamy w Cozy-Nest 🌿"
+
+msgid ""
+"At cozy-nest, we believe that comfort, calm, and connection should be at the "
+"heart of every getaway."
+msgstr ""
+"W Cozy-Nest wierzymy, że komfort, spokój i bliskość powinny być podstawą "
+"każdego wypoczynku."
+
+msgid ""
+"Born from the idea of creating meaningful escapes, cozy-nest is your home "
+"away from home — whether"
+msgstr ""
+"Powstałe z idei tworzenia znaczących miejsc do ucieczki, przytulne gniazdo "
+"jest Twoim domem z dala od domu — niezależnie od tego, czy"
+
+msgid ""
+"you're nestled in a cabin in the woods, unwinding by the beach, or enjoying "
+"the charm of a rustic barnhouse."
+msgstr ""
+"możesz odpocząć w domku w lesie, zrelaksować się na plaży lub cieszyć się "
+"urokiem rustykalnej stodoły."
+
+msgid ""
+"Our carefully curated staycations are designed to help you pause, breathe, "
+"and reconnect — with nature,"
+msgstr ""
+"Nasze starannie przygotowane plany urlopowe zostały zaprojektowane tak, aby "
+"pomóc Ci zatrzymać się, odetchnąć i na nowo nawiązać kontakt z naturą,"
+
+msgid "with your loved ones, and with yourself."
+msgstr "ze swoimi bliskimi i ze sobą samym."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Our Story Section
+msgid "Our Story"
+msgstr "Nasza historia"
+
+msgid "cozy-nest"
+msgstr "przytulne gniazdko"
+
+msgid "started with a simple mission:"
+msgstr "zaczęło się od prostej misji:"
+
+msgid "To make every stay feel like a warm hug."
+msgstr "Aby każdy pobyt był niczym ciepłe objęcie."
+
+msgid ""
+"We noticed that people craved not just vacations, but intentional "
+"experiences."
+msgstr ""
+"Zauważyliśmy, że ludzie pragną nie tylko wakacji, ale także konkretnych "
+"doświadczeń."
+
+msgid "Not just a place to stay, but a place to belong. And so,"
+msgstr ""
+"Nie tylko miejsce do zatrzymania się, ale miejsce do przynależności. I tak,"
+
+msgid ""
+"was born — a collection of charming and cozy spots designed for comfort, "
+"relaxation, and joy."
+msgstr ""
+"narodziła się kolekcja uroczych i przytulnych miejsc zaprojektowanych z "
+"myślą o komforcie, relaksie i radości."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. What Make Us Special Section
+msgid "What Makes Us Special"
+msgstr "Co nas wyróżnia"
+
+msgid "Handpicked Stays"
+msgstr "Wybrane pobyty"
+
+msgid ""
+"Each location is chosen for its unique charm, natural beauty, and cozy "
+"ambiance."
+msgstr ""
+"Każdą lokalizację wybieramy ze względu na jej niepowtarzalny urok, naturalne "
+"piękno i przytulną atmosferę."
+
+msgid "Comfort-First Philosophy"
+msgstr "Filozofia Komfortu na Pierwszym Miejscu"
+
+msgid "From soft linens to calming aesthetics, we prioritize your comfort."
+msgstr ""
+"Od miękkiej pościeli po uspokajającą estetykę, priorytetem jest dla nas Twój "
+"komfort."
+
+msgid "Nature-Inspired Escapes"
+msgstr "Ucieczki inspirowane naturą"
+
+msgid "Reconnect with nature in serene, picturesque surroundings."
+msgstr "Nawiąż kontakt z naturą w spokojnym, malowniczym otoczeniu."
+
+msgid "Perfect for All"
+msgstr "Idealny dla wszystkich"
+
+msgid ""
+"Whether you're a solo traveler, couple, family, or group of friends, there's "
+"a cozy-nest for you."
+msgstr ""
+"Niezależnie od tego, czy podróżujesz samotnie, w parze, z rodziną czy grupą "
+"przyjaciół, na pewno znajdziesz u nas przytulne gniazdko."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Our Promise Section
+msgid "Our Promise"
+msgstr "Nasza Obietnica"
+
+msgid "We’re more than just a place to stay."
+msgstr "Jesteśmy czymś więcej niż tylko miejscem noclegowym."
+
+msgid "We’re a feeling."
+msgstr "Jesteśmy uczuciem."
+
+msgid ""
+"A warm, safe, and inspiring space — thoughtfully designed just for you. "
+"Whether you're unwinding for the weekend or creating new memories, cozy-nest "
+"is your home of comfort and calm."
+msgstr ""
+"Ciepła, bezpieczna i inspirująca przestrzeń — starannie zaprojektowana "
+"specjalnie dla Ciebie. Niezależnie od tego, czy odpoczywasz w weekend, czy "
+"tworzysz nowe wspomnienia, cozy-nest jest Twoim domem komfortu i spokoju."
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. FAQ PAGE
+#. --------------------------------------||
+msgid "Frequently Asked Questions"
+msgstr "Często zadawane pytania"
+
+msgid "What is cozy-nest?"
+msgstr "Czym jest przytulne gniazdo?"
+
+msgid ""
+"cozy-nest is your ultimate staycation destination, providing a serene and "
+"cozy experience for everyone."
+msgstr ""
+"cozy-nest to idealne miejsce na wakacyjny wypoczynek, zapewniające każdemu "
+"spokojne i przytulne wrażenia."
+
+msgid "How do I make a reservation?"
+msgstr "Jak dokonać rezerwacji?"
+
+msgid ""
+"You can make a reservation directly through our website by filling out the "
+"booking form or contacting us directly."
+msgstr ""
+"Rezerwacji możesz dokonać bezpośrednio na naszej stronie internetowej, "
+"wypełniając formularz rezerwacyjny lub kontaktując się z nami bezpośrednio."
+
+msgid "What are the amenities offered?"
+msgstr "Jakie udogodnienia są oferowane?"
+
+msgid ""
+"We offer a range of amenities including a spa, pool, free Wi-Fi, and "
+"comfortable rooms with scenic views."
+msgstr ""
+"Oferujemy szereg udogodnień, w tym spa, basen, bezpłatne Wi-Fi i komfortowe "
+"pokoje z malowniczym widokiem."
+
+msgid "What is the check-in/check-out time?"
+msgstr "O której godzinie można się zameldować i wymeldować?"
+
+msgid ""
+"Check-in time is from 2:00 PM, and check-out is by 12:00 PM. Special "
+"arrangements can be made upon request."
+msgstr ""
+"Zameldowanie jest możliwe od 14:00, a wymeldowanie do 12:00. Na życzenie "
+"możliwe są specjalne ustalenia."
+
+msgid "Do you provide transportation services?"
+msgstr "Czy świadczycie usługi transportowe?"
+
+msgid ""
+"Yes, we provide transportation services to and from the nearest airport and "
+"bus terminals. Please contact us for more details."
+msgstr ""
+"Tak, zapewniamy usługi transportowe do i z najbliższego lotniska i terminali "
+"autobusowych. Prosimy o kontakt w celu uzyskania szczegółowych informacji."
+
+msgid "Is breakfast included in the package?"
+msgstr "Czy śniadanie jest wliczone w cenę pakietu?"
+
+msgid ""
+"Yes, breakfast is included in all staycation packages. Enjoy a variety of "
+"fresh, locally sourced breakfast options each morning."
+msgstr ""
+"Tak, śniadanie jest wliczone w cenę wszystkich pakietów staycation. Ciesz "
+"się różnorodnością świeżych, lokalnych opcji śniadaniowych każdego ranka."
+
+msgid "Can I bring pets to cozy-nest?"
+msgstr "Czy mogę przywieźć zwierzęta do Cozy-Nest?"
+
+msgid ""
+"We are a pet-friendly facility! You are welcome to bring your furry friends. "
+"Please inform us in advance for any special accommodations."
+msgstr ""
+"Jesteśmy obiektem przyjaznym zwierzętom! Zapraszamy do przyprowadzenia "
+"swoich futrzanych przyjaciół. Prosimy o wcześniejsze poinformowanie nas o "
+"wszelkich specjalnych udogodnieniach."
+
+msgid "What is your cancellation policy?"
+msgstr "Jaka jest polityka anulowania rezerwacji?"
+
+msgid ""
+"Our cancellation policy allows free cancellation up to 48 hours before your "
+"check-in date. After that, a cancellation fee will apply."
+msgstr ""
+"Nasza polityka anulowania pozwala na bezpłatne anulowanie do 48 godzin przed "
+"datą zameldowania. Po tym terminie zostanie naliczona opłata za anulowanie."
+
+msgid "Last updated:"
+msgstr "Ostatnia aktualizacja:"
+
+msgid "1. Information We Collect"
+msgstr "1. Informacje, które zbieramy"
+
+msgid ""
+"At cozy-nest, we value your privacy. We only collect personal data when it’s "
+"necessary for a cozy and seamless booking experience. This may include:"
+msgstr ""
+"W cozy-nest cenimy Twoją prywatność. Gromadzimy dane osobowe tylko wtedy, "
+"gdy jest to konieczne dla zapewnienia przytulnego i płynnego procesu "
+"rezerwacji. Może to obejmować:"
+
+msgid "Name, email, and contact details (when making a reservation)"
+msgstr "Imię, adres e-mail i dane kontaktowe (podczas dokonywania rezerwacji)"
+
+msgid "Preferences to personalize your stay"
+msgstr "Preferencje dotyczące personalizacji pobytu"
+
+msgid "Cookies for website functionality and analytics"
+msgstr "Pliki cookie do celów funkcjonalnych i analitycznych witryny"
+
+msgid "2. How We Use Your Information"
+msgstr "2. Jak wykorzystujemy Twoje dane"
+
+msgid ""
+"Your data helps us provide personalized staycation experiences, enhance our "
+"services, and ensure smooth communication with you."
+msgstr ""
+"Twoje dane pomagają nam oferować spersonalizowane oferty pobytów w domu, "
+"ulepszać nasze usługi i zapewniać sprawną komunikację z Tobą."
+
+msgid "3. Cookies"
+msgstr "3. Pliki cookie"
+
+msgid ""
+"We use cookies to remember your preferences and improve our site "
+"performance. You can manage your cookie settings through your browser."
+msgstr ""
+"Używamy plików cookie, aby zapamiętać Twoje preferencje i poprawić wydajność "
+"naszej witryny. Możesz zarządzać ustawieniami plików cookie za pomocą swojej "
+"przeglądarki."
+
+msgid "4. Third-Party Services"
+msgstr "4. Usługi stron trzecich"
+
+msgid ""
+"We may use trusted third-party services (like payment gateways or analytics "
+"tools) that collect data as needed. Please review their policies for more "
+"information."
+msgstr ""
+"Możemy korzystać z zaufanych usług stron trzecich (takich jak bramki "
+"płatnicze lub narzędzia analityczne), które zbierają dane w razie potrzeby. "
+"Zapoznaj się z ich politykami, aby uzyskać więcej informacji."
+
+msgid "5. Your Rights"
+msgstr "5. Twoje prawa"
+
+msgid ""
+"You have the right to access, update, or delete your personal data. We’re "
+"here to help you with that anytime."
+msgstr ""
+"Masz prawo dostępu, aktualizacji lub usunięcia swoich danych osobowych. "
+"Jesteśmy tutaj, aby Ci w tym pomóc w każdej chwili."
+
+msgid "6. Contact Us"
+msgstr "6. Skontaktuj się z nami"
+
+msgid "Questions about our privacy policy? Let’s chat! Reach out to us at:"
+msgstr ""
+"Masz pytania dotyczące naszej polityki prywatności? Porozmawiajmy! "
+"Skontaktuj się z nami pod adresem:"
+
+msgid "hello@cozy-nest.com"
+msgstr "witaj@cozy-nest.com"

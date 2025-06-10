@@ -1,0 +1,827 @@
+# Copyright (C) 2025 Cozy Nest Theme
+# This file is distributed under the same license as the Heaven Brew package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cozy Nest  1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/cozy-nest\n"
+"POT-Creation-Date: 2025-05-06T04:30:57.000Z\n"
+"PO-Revision-Date: 2025-05-06 19:23+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+"Domain: cozy-nest\n"
+
+#. --------------------------------------||
+#. NAVIGATION BAR
+#. --------------------------------------||
+#. Header
+msgid "Toggle navigation"
+msgstr "탐색 전환"
+
+msgid "Home"
+msgstr "집입니다"
+
+msgid "Our Stays"
+msgstr "우리의 체류"
+
+msgid "Contact"
+msgstr "연락"
+
+msgid "Account"
+msgstr "계좌"
+
+#. ---------------------------------------
+#. Quicklinks
+#. ---------------------------------------
+#. --------------------------------------||
+#. ABOUT US PAGE
+#. --------------------------------------||
+#. About Us Description Section
+msgid "Cozy Nest Logo"
+msgstr "아늑한 둥지 로고"
+
+msgid "Your cozy escape starts here."
+msgstr "당신의 아늑한 탈출은 여기서 시작됩니다."
+
+msgid "Quick Links"
+msgstr "빠른 링크"
+
+msgid "About Us"
+msgstr "우리에 대해요"
+
+msgid "Testimonials"
+msgstr "후기"
+
+msgid "Helpful Info"
+msgstr "유용한 정보"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. PRIVACY POLICY PAGE
+#. --------------------------------------||
+msgid "Privacy Policy"
+msgstr "개인정보 보호정책"
+
+msgid "Follow Us"
+msgstr "팔로우하기"
+
+msgid "Facebook Logo"
+msgstr "페이스북 로고"
+
+msgid "Instagram Logo"
+msgstr "인스타그램 로고"
+
+msgid "X Logo"
+msgstr "X 로고"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Footer
+msgid "All Rights Reserved."
+msgstr "무단 전재 금지."
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. HOMEPAGE OR INDEX PAGE
+#. --------------------------------------||
+#. ---------------------------------------
+#. Hero Section
+msgid "Escape to Serenity"
+msgstr "평온으로의 탈출"
+
+msgid "Discover cozy and relaxing staycations nestled in nature."
+msgstr "아늑하고 편안함을 발견합니다."
+
+msgid "Explore Stays"
+msgstr "체류 시간 탐색"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Top Staycation Section
+msgid "Our Top Staycations"
+msgstr "최고의 스테이케이션"
+
+msgid "Nestled in the woods, fresh air and experience a peaceful retreat."
+msgstr "숲 속에 둥지를 틀고 신선한 공기와 평화로운 휴양을 경험합니다."
+
+msgid "Wake up to ocean waves in our luxurious beachside retreat."
+msgstr "우리의 호화로운 해변 휴양지에서 파도에 잠에서 깨어나라."
+
+msgid "Mountain Lodge"
+msgstr "마운틴 로지"
+
+msgid "Breathtaking views and fresh air await in the mountains."
+msgstr "산속에서 숨막히는 경치와 신선한 공기가 기다리고 있습니다."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. About Us Section
+msgid "Why Choose Cozy Nest?"
+msgstr "왜 아늑한 둥지를 선택하십시오."
+
+msgid ""
+"Our handpicked locations provide the perfect escape from everyday life. "
+"Whether you seek adventure, relaxation, or a mix of both, our stays are "
+"designed for comfort and tranquility."
+msgstr ""
+"저희가 직접 선택한 장소는 일상 생활에서 완벽한 탈출을 제공합니다. 모험, 휴"
+"식, 또는 이 두 가지를 모두 원하는 경우에도 편안함과 평온함을 위해 저희의 숙박"
+"은 설계되었습니다."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Testimonials Section
+msgid "What Our Guests Say"
+msgstr "게스트의 의견"
+
+msgid "Testimonial Image"
+msgstr "후기 이미지"
+
+msgid ""
+"The cabin stay was magical! Peaceful and cozy, I will definitely be back."
+msgstr "객실 숙박은 정말 환상적이었어요! 평화롭고 아늑해서 꼭 돌아올게요."
+
+msgid "The beach villa exceeded our expectations and great service."
+msgstr "해변 빌라는 우리의 기대와 훌륭한 서비스를 뛰어넘었습니다."
+
+msgid ""
+"I had the most relaxing time at the lakeside retreat. Highly recommended!"
+msgstr "호숫가 휴양지에서 가장 편안한 시간을 보냈어요. 강력히 추천합니다!"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Newsletter Section
+msgid "Sign Up for Exclusive Offers"
+msgstr "독점 혜택 가입"
+
+msgid "Subscribe to get the latest staycation deals and updates."
+msgstr "최신 스테이케이션 거래 및 업데이트를 받으려면 구독하세요."
+
+msgid "Enter your email"
+msgstr "이메일 입력"
+
+msgid "Sign Up"
+msgstr "등록해요"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Us Section
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Form Section
+msgid "Contact Us"
+msgstr "우리에게 연락하세요"
+
+msgid ""
+"We'd love to hear from you! Reach out for any inquiries, feedback, or just "
+"to say hello."
+msgstr ""
+"우리로부터 듣고 싶어요!질문, 피드백, 피드백, 피드백, 피드백, 그리고 그냥 인사"
+"하세요."
+
+msgid "Full Name"
+msgstr "전체 이름"
+
+msgid "Enter your full name"
+msgstr "전체 이름 입력"
+
+msgid "Email"
+msgstr "이메일"
+
+msgid "Message"
+msgstr "메세지"
+
+msgid "Write your message here..."
+msgstr "여기에 메시지를 작성하세요..."
+
+msgid "Send Message"
+msgstr "메시지 보내기"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. OUR STAYS PAGE
+#. --------------------------------------||
+#. ---------------------------------------
+#. Staycation Nav Categories Section
+msgid "Our Staycation"
+msgstr "인기 스테이케이션 장소"
+
+msgid "All"
+msgstr "모든."
+
+msgid "Beach & Waterfront"
+msgstr "비치 & 워터프론트"
+
+msgid "Nature Retreats"
+msgstr "자연 휴양지"
+
+msgid "Rustic & Cozy"
+msgstr "러스틱 & 코지"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Staycation Cards Section
+msgid "Cozy Cabin"
+msgstr "아늑한 오두막"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Popular Staycation Spots
+msgid "Sleeps:"
+msgstr "잠자다:"
+
+msgid "Rating:"
+msgstr "등급:"
+
+msgid "Check-in:"
+msgstr "체크인:"
+
+msgid "Nestled in the woods, enjoy fresh air and a peaceful retreat."
+msgstr "숲 속에 둥지를 틀고 신선한 공기와 평화로운 휴양을 즐기세요."
+
+msgid "₱3,200/night"
+msgstr "₱3,200/밤"
+
+msgid "View Details"
+msgstr "세부 정보 보기"
+
+msgid "₱3,800/night"
+msgstr "₱3,800/밤"
+
+msgid "Lakeside Retreat"
+msgstr "호숫가 휴양지"
+
+msgid ""
+"Relax by water with stunning lakeside views that gentle ripples and create a "
+"calming rhythm."
+msgstr ""
+"잔잔한 물결과 잔잔한 리듬을 만들어내는 멋진 호숫가 풍경과 함께 물 위에서 휴식"
+"을 취하세요."
+
+msgid "₱3,500/night"
+msgstr "₱3,500/밤"
+
+msgid "Forest Hideaway"
+msgstr "포레스트 히데어웨이"
+
+msgid "Escape into nature with a secluded forest retreat."
+msgstr "한적한 숲 속 휴양지와 함께 자연 속으로 탈출하세요."
+
+msgid "₱2,900/night"
+msgstr "₱2,900/밤"
+
+msgid "Hillside Haven"
+msgstr "힐사이드 헤이븐"
+
+msgid "Wake up to misty mornings and panoramic hillside views."
+msgstr "안개 낀 아침과 탁 트인 언덕 풍경에 눈을 뜨세요."
+
+msgid "₱3,100/night"
+msgstr "₱3,100/밤"
+
+msgid "Pinecrest Chalet"
+msgstr "파인크레스트 샬레"
+
+msgid "Cozy up in a charming chalet surrounded by pine trees."
+msgstr "소나무로 둘러싸인 매력적인 샬레에서 아늑함을 만끽하세요."
+
+msgid "₱3,400/night"
+msgstr "₱3,400/밤"
+
+msgid "Beach Villa"
+msgstr "비치 빌라"
+
+msgid "₱4,500/night"
+msgstr "₱4,500/밤"
+
+msgid "Seaside Bungalow"
+msgstr "해변 방갈로"
+
+msgid ""
+"Experience the charm of coastal living to a serene haven where the waves "
+"meets"
+msgstr "파도가 만나는 고요한 안식처에서 해안 생활의 매력을 경험하세요"
+
+msgid "Riverfront Haven"
+msgstr "리버프론트 헤이븐"
+
+msgid ""
+"Calm river views and quiet mornings await in the soothing sounds of gently "
+"flowing water."
+msgstr ""
+"잔잔한 강물 전망과 고요한 아침이 잔잔한 물소리 속에서 기다리고 있습니다."
+
+msgid "₱4,000/night"
+msgstr "₱4,000/밤"
+
+msgid "Tropical Paradise"
+msgstr "열대 낙원"
+
+msgid ""
+"Sun, sand, and serenity in every stay beachside retreat where the sun kisses "
+"your skin,"
+msgstr ""
+"태양이 당신의 피부에 닿는 모든 해변 휴양지에서 태양, 모래, 그리고 고요함,"
+
+msgid "₱4,700/night"
+msgstr "₱4,700/밤"
+
+msgid "Coastal Cottage"
+msgstr "해안 별장"
+
+msgid ""
+"Chill out with ocean breezes and coastal charm sweep over you as you unwind "
+"in a cozy retreat."
+msgstr ""
+"아늑한 휴양지에서 휴식을 취할 때 바닷바람과 해안의 매력이 당신을 압도합니다."
+
+msgid "₱3,900/night"
+msgstr "₱3,900/밤"
+
+msgid "Coral Sands Retreat"
+msgstr "산호 모래 휴양지"
+
+msgid "Soak in the sun with beachfront views and gentle waves."
+msgstr "해변 전망과 부드러운 파도로 햇볕을 쬐세요."
+
+msgid "₱4,400/night"
+msgstr "₱4,400/밤"
+
+msgid "Skyline Penthouse"
+msgstr "스카이라인 펜트하우스"
+
+msgid "Luxury and city lights from your private penthouse."
+msgstr "개인 펜트하우스에서 제공하는 럭셔리 및 도시 조명."
+
+msgid "₱5,200/night"
+msgstr "₱5,200/밤"
+
+msgid "Urban Loft"
+msgstr "어반 로프트"
+
+msgid ""
+"Stylish and modern city experience where urban sophistication meets "
+"contemporary comfort."
+msgstr ""
+"도시의 세련미와 현대적인 편안함이 어우러진 세련되고 현대적인 도시 경험."
+
+msgid "Garden Villa"
+msgstr "가든 빌라"
+
+msgid ""
+"Greenery and elegance in the heart of city to urban oasis where greenery "
+"meets."
+msgstr "도시 중심부의 녹지와 우아함에서 녹지가 만나는 도시 오아시스까지."
+
+msgid "₱4,200/night"
+msgstr "₱4,200/밤"
+
+msgid "Rustic Barnhouse"
+msgstr "러스틱 헛간"
+
+msgid ""
+"Charming rustic vibes with comfort space that effortlessly combines warmth "
+"of rustic charm."
+msgstr ""
+"매력적인 소박한 분위기와 편안한 공간, 소박한 매력의 따뜻함을 쉽게 결합합니다."
+
+msgid "₱3,300/night"
+msgstr "₱3,300/밤"
+
+msgid "The Olive House"
+msgstr "올리브 하우스"
+
+msgid "A peaceful modern home tucked in a quiet city neighborhood."
+msgstr "조용한 도시 지역에 위치한 평화로운 현대식 주택."
+
+msgid "₱4,100/night"
+msgstr "₱4,100/밤"
+
+msgid "Brickstone House"
+msgstr "브릭스톤 하우스"
+
+msgid "Classic charm meets city convenience in this full private home."
+msgstr "고전적인 매력과 도시의 편리함이 어우러진 이 완전한 개인 주택."
+
+msgid "₱4,300/night"
+msgstr "₱4,300/밤"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. SINGLE STAYCATION PAGE
+#. --------------------------------------||
+#. Single Staycation Section
+msgid "Overnight"
+msgstr "하룻밤"
+
+msgid "Weekend Getaway"
+msgstr "주말 휴가"
+
+msgid "Full Week"
+msgstr "풀 위크"
+
+msgid "Breakfast Included"
+msgstr "조식 포함"
+
+msgid "Late Checkout"
+msgstr "늦은 체크아웃"
+
+msgid "Spa Access"
+msgstr "스파 액세스"
+
+msgid "Airport Pickup"
+msgstr "공항 픽업"
+
+msgid "Book Your Stay"
+msgstr "숙박 예약하기"
+
+msgid "Number of Adults"
+msgstr "성인 수"
+
+msgid "Number of Kids"
+msgstr "아이들의 수"
+
+msgid "Check-In Date"
+msgstr "체크인 날짜"
+
+msgid "Check-Out Date"
+msgstr "체크아웃 날짜"
+
+msgid "Choose Duration:"
+msgstr "기간 선택:"
+
+msgid "Add Extras:"
+msgstr "추가 사항 추가:"
+
+msgid "Book Now"
+msgstr "지금 책"
+
+msgid "Staycation package not found."
+msgstr "스테이케이션 패키지를 찾을 수 없습니다."
+
+msgid "Popular Staycation Spots"
+msgstr "인기 스테이케이션 장소"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. CONTACT US PAGE
+#. --------------------------------------||
+#. Contact Header
+msgid "Let’s Make Your Stay Memorable 💌"
+msgstr "기억에 남는 숙박을 만들어 보세요 💌"
+
+msgid "Have questions or special requests? We’re just a message away!"
+msgstr "질문이나 특별한 요청 사항이 있으신가요? 이제 메시지가 남습니다!"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Us Location Section
+msgid "Get in Touch 🌿"
+msgstr "연락하기 🌿"
+
+msgid "Address:"
+msgstr "주소:"
+
+msgid "Brgy. Peaceful Pines, Tagaytay"
+msgstr "브리. 평화로운 소나무, 타가이타이"
+
+msgid "Phone:"
+msgstr " 전화:"
+
+msgid "Email:"
+msgstr " 이메일, 전자 우편:"
+
+msgid "Hours:"
+msgstr "시간:"
+
+msgid "Open Daily: 9:00 AM – 6:00 PM"
+msgstr "매일 영업: 오전 9시 ~ 오후 6시"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. ACCOUNT PAGE
+#. --------------------------------------||
+#. Sign Up & Sign In Form Section
+msgid "Cozy Nest"
+msgstr "아늑한 둥지"
+
+msgid "Log in with your account"
+msgstr "계정으로 로그인"
+
+msgid "Enter Email Address"
+msgstr "이메일 주소 입력"
+
+msgid "Password"
+msgstr "비밀번호"
+
+msgid "Enter Password"
+msgstr "비밀번호 입력"
+
+msgid "Login"
+msgstr "로그 인."
+
+msgid "Don't have an account?"
+msgstr "계정이 없나요?"
+
+msgid "Create an Account"
+msgstr "계정 만들기"
+
+msgid "Enter Full Name"
+msgstr "전체 이름 입력"
+
+msgid "Already have an account?"
+msgstr "이미 계정이 있습니까?"
+
+msgid "Welcome to Cozy-Nest 🌿"
+msgstr "코지네스트에 오신 것을 환영합니다 🌿"
+
+msgid ""
+"At cozy-nest, we believe that comfort, calm, and connection should be at the "
+"heart of every getaway."
+msgstr ""
+"아늑한 둥지에서는 편안함, 평온함, 그리고 연결이 모든 휴양지의 핵심이 되어야 "
+"한다고 믿습니다."
+
+msgid ""
+"Born from the idea of creating meaningful escapes, cozy-nest is your home "
+"away from home — whether"
+msgstr ""
+"의미 있는 탈출구를 만든다는 아이디어에서 탄생한 아늑한 둥지는 집에서 멀리 떨"
+"어진 집입니다"
+
+msgid ""
+"you're nestled in a cabin in the woods, unwinding by the beach, or enjoying "
+"the charm of a rustic barnhouse."
+msgstr ""
+"숲 속 오두막에 둥지를 틀고 해변에서 몸을 풀거나 소박한 헛간의 매력을 만끽합니"
+"다."
+
+msgid ""
+"Our carefully curated staycations are designed to help you pause, breathe, "
+"and reconnect — with nature,"
+msgstr ""
+"저희의 엄선된 스테이케이션은 자연과 잠시 멈추고, 숨을 쉬고, 다시 연결할 수 있"
+"도록 설계되었습니다,"
+
+msgid "with your loved ones, and with yourself."
+msgstr "사랑하는 사람들과 함께, 그리고 당신 자신과 함께."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Our Story Section
+msgid "Our Story"
+msgstr "우리 이야기"
+
+msgid "cozy-nest"
+msgstr "아늑한 둥지"
+
+msgid "started with a simple mission:"
+msgstr "간단한 임무로 시작했습니다:"
+
+msgid "To make every stay feel like a warm hug."
+msgstr "모든 체류가 따뜻한 포옹처럼 느껴지도록 하기 위해."
+
+msgid ""
+"We noticed that people craved not just vacations, but intentional "
+"experiences."
+msgstr ""
+"사람들이 단순히 휴가뿐만 아니라 의도적인 경험도 갈망한다는 것을 알게 되었습니"
+"다."
+
+msgid "Not just a place to stay, but a place to belong. And so,"
+msgstr "우리는 단순히 머무는 곳 그 이상입니다."
+
+msgid ""
+"was born — a collection of charming and cozy spots designed for comfort, "
+"relaxation, and joy."
+msgstr ""
+"탄생 - 편안함, 휴식, 즐거움을 위해 설계된 매력적이고 아늑한 장소들의 모음입니"
+"다."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. What Make Us Special Section
+msgid "What Makes Us Special"
+msgstr "우리를 특별하게 만드는 이유"
+
+msgid "Handpicked Stays"
+msgstr "엄선된 스테이"
+
+msgid ""
+"Each location is chosen for its unique charm, natural beauty, and cozy "
+"ambiance."
+msgstr "각 장소는 독특한 매력, 자연의 아름다움, 아늑한 분위기로 선택됩니다."
+
+msgid "Comfort-First Philosophy"
+msgstr "편안함 우선 철학"
+
+msgid "From soft linens to calming aesthetics, we prioritize your comfort."
+msgstr ""
+"부드러운 리넨부터 차분한 미학까지, 저희는 여러분의 편안함을 최우선으로 생각합"
+"니다."
+
+msgid "Nature-Inspired Escapes"
+msgstr "자연에서 영감을 받은 탈출구"
+
+msgid "Reconnect with nature in serene, picturesque surroundings."
+msgstr "고요하고 그림 같은 환경에서 자연과 다시 연결하세요."
+
+msgid "Perfect for All"
+msgstr "모두에게 완벽한"
+
+msgid ""
+"Whether you're a solo traveler, couple, family, or group of friends, there's "
+"a cozy-nest for you."
+msgstr ""
+"혼자 여행하는 사람이든, 커플이든, 가족이든, 친구들이든, 당신을 위한 아늑한 보"
+"금자리가 있습니다."
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Our Promise Section
+msgid "Our Promise"
+msgstr "우리의 약속"
+
+msgid "We’re more than just a place to stay."
+msgstr "우리는 단순히 머무는 곳 그 이상입니다."
+
+msgid "We’re a feeling."
+msgstr "우리는 감정입니다."
+
+msgid ""
+"A warm, safe, and inspiring space — thoughtfully designed just for you. "
+"Whether you're unwinding for the weekend or creating new memories, cozy-nest "
+"is your home of comfort and calm."
+msgstr ""
+"따뜻하고 안전하며 영감을 주는 공간 - 여러분만을 위해 세심하게 설계되었습니"
+"다. 주말을 맞아 긴장을 풀든 새로운 추억을 만들든 아늑한 둥지는 편안함과 평온"
+"함의 집입니다."
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. FAQ PAGE
+#. --------------------------------------||
+msgid "Frequently Asked Questions"
+msgstr "자주 묻는 질문"
+
+msgid "What is cozy-nest?"
+msgstr "아늑한 둥지란 무엇인가요?"
+
+msgid ""
+"cozy-nest is your ultimate staycation destination, providing a serene and "
+"cozy experience for everyone."
+msgstr ""
+"아늑한 둥지는 모든 사람에게 고요하고 아늑한 경험을 제공하는 최고의 스테이케이"
+"션 목적지입니다."
+
+msgid "How do I make a reservation?"
+msgstr "예약은 어떻게 하나요?"
+
+msgid ""
+"You can make a reservation directly through our website by filling out the "
+"booking form or contacting us directly."
+msgstr ""
+"예약 양식을 작성하거나 직접 문의하여 웹사이트를 통해 직접 예약할 수 있습니다."
+
+msgid "What are the amenities offered?"
+msgstr "어떤 편의 시설이 제공되나요?"
+
+msgid ""
+"We offer a range of amenities including a spa, pool, free Wi-Fi, and "
+"comfortable rooms with scenic views."
+msgstr ""
+"저희는 스파, 수영장, 무료 와이파이, 경치 좋은 편안한 객실 등 다양한 편의 시설"
+"을 제공합니다."
+
+msgid "What is the check-in/check-out time?"
+msgstr "체크인/체크아웃 시간은 어떻게 되나요?"
+
+msgid ""
+"Check-in time is from 2:00 PM, and check-out is by 12:00 PM. Special "
+"arrangements can be made upon request."
+msgstr ""
+"체크인 시간은 오후 2시부터이며, 체크아웃 시간은 오후 12시까지입니다. 요청 시 "
+"특별한 예약을 할 수 있습니다."
+
+msgid "Do you provide transportation services?"
+msgstr "교통 서비스를 제공하시나요?"
+
+msgid ""
+"Yes, we provide transportation services to and from the nearest airport and "
+"bus terminals. Please contact us for more details."
+msgstr ""
+"예, 가장 가까운 공항 및 버스 터미널로 오가는 교통 서비스를 제공합니다. 자세"
+"한 내용은 문의해 주세요."
+
+msgid "Is breakfast included in the package?"
+msgstr "아침 식사가 패키지에 포함되어 있나요?"
+
+msgid ""
+"Yes, breakfast is included in all staycation packages. Enjoy a variety of "
+"fresh, locally sourced breakfast options each morning."
+msgstr ""
+"예, 모든 스테이케이션 패키지에는 아침 식사가 포함되어 있습니다. 매일 아침 현"
+"지에서 조달한 다양한 신선한 아침 식사 옵션을 즐기세요."
+
+msgid "Can I bring pets to cozy-nest?"
+msgstr "애완동물을 아늑한 둥지로 데려갈 수 있나요?"
+
+msgid ""
+"We are a pet-friendly facility! You are welcome to bring your furry friends. "
+"Please inform us in advance for any special accommodations."
+msgstr ""
+"저희는 반려동물 친화적인 시설입니다! 털복숭이 친구들을 데려오셔도 됩니다. 특"
+"별한 숙소가 있으면 미리 알려주세요."
+
+msgid "What is your cancellation policy?"
+msgstr "취소 정책이 어떻게 되나요?"
+
+msgid ""
+"Our cancellation policy allows free cancellation up to 48 hours before your "
+"check-in date. After that, a cancellation fee will apply."
+msgstr ""
+"저희 취소 정책은 체크인 날짜 48시간 전까지 무료 취소를 허용합니다. 그 후에는 "
+"취소 수수료가 부과됩니다."
+
+msgid "Last updated:"
+msgstr "마지막 업데이트:"
+
+msgid "1. Information We Collect"
+msgstr "1. 우리가 수집하는 정보"
+
+msgid ""
+"At cozy-nest, we value your privacy. We only collect personal data when it’s "
+"necessary for a cozy and seamless booking experience. This may include:"
+msgstr ""
+"아늑한 둥지에서는 개인정보를 소중히 여깁니다. 아늑하고 원활한 예약 경험을 위"
+"해 필요한 경우에만 개인 데이터를 수집합니다. 여기에는 다음이 포함될 수 있습니"
+"다:"
+
+msgid "Name, email, and contact details (when making a reservation)"
+msgstr "이름, 이메일, 연락처 정보(예약 시)"
+
+msgid "Preferences to personalize your stay"
+msgstr "숙박을 개인화하기 위한 선호 사항"
+
+msgid "Cookies for website functionality and analytics"
+msgstr "웹사이트 기능 및 분석을 위한 쿠키"
+
+msgid "2. How We Use Your Information"
+msgstr "2. 귀하의 정보를 사용하는 방법"
+
+msgid ""
+"Your data helps us provide personalized staycation experiences, enhance our "
+"services, and ensure smooth communication with you."
+msgstr ""
+"귀하의 데이터는 맞춤형 스테이케이션 경험을 제공하고, 서비스를 향상시키며, 원"
+"활한 소통을 보장하는 데 도움이 됩니다."
+
+msgid "3. Cookies"
+msgstr "3. 쿠키"
+
+msgid ""
+"We use cookies to remember your preferences and improve our site "
+"performance. You can manage your cookie settings through your browser."
+msgstr ""
+"쿠키를 사용하여 사용자의 선호도를 기억하고 사이트 성능을 향상시킵니다. 브라우"
+"저를 통해 쿠키 설정을 관리할 수 있습니다."
+
+msgid "4. Third-Party Services"
+msgstr "4. 타사 서비스"
+
+msgid ""
+"We may use trusted third-party services (like payment gateways or analytics "
+"tools) that collect data as needed. Please review their policies for more "
+"information."
+msgstr ""
+"We may use trusted third-party services (like payment gateways or analytics "
+"tools) that collect data as needed. Please review their policies for more "
+"information."
+
+msgid "5. Your Rights"
+msgstr "5. 당신의 권리"
+
+msgid ""
+"You have the right to access, update, or delete your personal data. We’re "
+"here to help you with that anytime."
+msgstr ""
+"귀하는 개인 데이터에 액세스하거나 업데이트하거나 삭제할 권리가 있습니다. 언제"
+"든지 도와드리겠습니다."
+
+msgid "6. Contact Us"
+msgstr "6. 문의"
+
+msgid "Questions about our privacy policy? Let’s chat! Reach out to us at:"
+msgstr ""
+"개인정보 보호 정책에 대해 궁금한 점이 있으신가요? 채팅해 봅시다! 연락처:"
+
+msgid "hello@cozy-nest.com"
+msgstr "hello@cozy-nest.com"

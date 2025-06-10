@@ -1,0 +1,783 @@
+# Copyright (C) 2025 Cozy Nest Theme
+# This file is distributed under the same license as the Heaven Brew package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cozy Nest  1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/cozy-nest\n"
+"POT-Creation-Date: 2025-05-06T04:30:57.000Z\n"
+"PO-Revision-Date: 2025-05-07 19:31+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+"Domain: cozy-nest\n"
+
+#. --------------------------------------||
+#. NAVIGATION BAR
+#. --------------------------------------||
+#. Header
+msgid "Toggle navigation"
+msgstr "切换导航"
+
+msgid "Home"
+msgstr "联系我们"
+
+msgid "Our Stays"
+msgstr "我们的住宿"
+
+msgid "Contact"
+msgstr "联系"
+
+msgid "Account"
+msgstr "帐户"
+
+#. ---------------------------------------
+#. Quicklinks
+#. ---------------------------------------
+#. --------------------------------------||
+#. ABOUT US PAGE
+#. --------------------------------------||
+#. About Us Description Section
+msgid "Cozy Nest Logo"
+msgstr "温馨巢穴标志"
+
+msgid "Your cozy escape starts here."
+msgstr "温馨巢穴标志"
+
+msgid "Quick Links"
+msgstr "快捷链接"
+
+msgid "About Us"
+msgstr "关于我们"
+
+msgid "Testimonials"
+msgstr "客户评价"
+
+msgid "Helpful Info"
+msgstr "有用的信息"
+
+msgid "FAQ"
+msgstr "常见问题解答"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. PRIVACY POLICY PAGE
+#. --------------------------------------||
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+msgid "Follow Us"
+msgstr "关注我们"
+
+msgid "Facebook Logo"
+msgstr "关注我们"
+
+msgid "Instagram Logo"
+msgstr "网页标志"
+
+msgid "X Logo"
+msgstr "标志"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Footer
+msgid "All Rights Reserved."
+msgstr "保留所有权利。"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. HOMEPAGE OR INDEX PAGE
+#. --------------------------------------||
+#. ---------------------------------------
+#. Hero Section
+msgid "Escape to Serenity"
+msgstr "逃离到宁静"
+
+msgid "Discover cozy and relaxing staycations nestled in nature."
+msgstr "发现隐藏在大自然中的温馨放松的住宿。"
+
+msgid "Explore Stays"
+msgstr "探索住宿"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Top Staycation Section
+msgid "Our Top Staycations"
+msgstr "我们的顶级住宿选择"
+
+msgid "Nestled in the woods, fresh air and experience a peaceful retreat."
+msgstr "坐落在森林中，呼吸新鲜空气，体验宁静的休憩。"
+
+msgid "Wake up to ocean waves in our luxurious beachside retreat."
+msgstr "在我们豪华的海滨度假胜地醒来，感受海浪。"
+
+msgid "Mountain Lodge"
+msgstr "山间小屋"
+
+msgid "Breathtaking views and fresh air await in the mountains."
+msgstr "令人叹为观止的山景和新鲜空气正等待着您。"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. About Us Section
+msgid "Why Choose Cozy Nest?"
+msgstr "为什么选择温馨巢穴？"
+
+msgid ""
+"Our handpicked locations provide the perfect escape from everyday life. "
+"Whether you seek adventure, relaxation, or a mix of both, our stays are "
+"designed for comfort and tranquility."
+msgstr ""
+"我们精心挑选的地点提供了逃离日常生活的完美去处。 无论您是寻求冒险、放松，还是"
+"两者兼而有之，我们的住宿都旨在提供舒适与宁静。"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Testimonials Section
+msgid "What Our Guests Say"
+msgstr "客人怎么说"
+
+msgid "Testimonial Image"
+msgstr "证言图片"
+
+msgid ""
+"The cabin stay was magical! Peaceful and cozy, I will definitely be back."
+msgstr "这次小屋住宿真是太神奇了！ 宁静而温馨，我一定会再来的。"
+
+msgid "The beach villa exceeded our expectations and great service."
+msgstr "海滩别墅超出了我们的期望，服务也非常好。"
+
+msgid ""
+"I had the most relaxing time at the lakeside retreat. Highly recommended!"
+msgstr "我在湖边的度假胜地度过了最放松的时光。 强烈推荐！"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Newsletter Section
+msgid "Sign Up for Exclusive Offers"
+msgstr "注册以获取独家优惠"
+
+msgid "Subscribe to get the latest staycation deals and updates."
+msgstr "订阅以获取最新的宅假优惠和更新。"
+
+msgid "Enter your email"
+msgstr "输入您的电子邮件"
+
+msgid "Sign Up"
+msgstr "立即预订"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Us Section
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Form Section
+msgid "Contact Us"
+msgstr "联系我们"
+
+msgid ""
+"We'd love to hear from you! Reach out for any inquiries, feedback, or just "
+"to say hello."
+msgstr ""
+"我们非常期待您的消息！ 如有任何询问、反馈或仅仅是打个招呼，请随时联系我。"
+
+msgid "Full Name"
+msgstr "联系我们"
+
+msgid "Enter your full name"
+msgstr "请输入您的全名"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Message"
+msgstr "消息"
+
+msgid "Write your message here..."
+msgstr "在这里写下你的消息..."
+
+msgid "Send Message"
+msgstr "发送消息"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. OUR STAYS PAGE
+#. --------------------------------------||
+#. ---------------------------------------
+#. Staycation Nav Categories Section
+msgid "Our Staycation"
+msgstr "我们的宅假"
+
+msgid "All"
+msgstr "全部的"
+
+msgid "Beach & Waterfront"
+msgstr "海滩与海滨"
+
+msgid "Nature Retreats"
+msgstr "自然休憩之地"
+
+msgid "Rustic & Cozy"
+msgstr "乡村与温馨"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Staycation Cards Section
+msgid "Cozy Cabin"
+msgstr "温馨小屋"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Popular Staycation Spots
+msgid "Sleeps:"
+msgstr "睡觉:"
+
+msgid "Rating:"
+msgstr "评分:"
+
+msgid "Check-in:"
+msgstr "入住:"
+
+msgid "Nestled in the woods, enjoy fresh air and a peaceful retreat."
+msgstr "坐落在森林中，享受新鲜空气和宁静的休憩。"
+
+msgid "₱3,200/night"
+msgstr "₱ 3,200/晚"
+
+msgid "View Details"
+msgstr "查看详情"
+
+msgid "₱3,800/night"
+msgstr "₱ 3,800/晚"
+
+msgid "Lakeside Retreat"
+msgstr "湖畔静修"
+
+msgid ""
+"Relax by water with stunning lakeside views that gentle ripples and create a "
+"calming rhythm."
+msgstr "在水边放松，欣赏令人惊叹的湖景，那些轻柔的涟漪营造出一种宁静的节奏。"
+
+msgid "₱3,500/night"
+msgstr "₱ 3,500/晚"
+
+msgid "Forest Hideaway"
+msgstr "森林隐秘之地"
+
+msgid "Escape into nature with a secluded forest retreat."
+msgstr "逃离到大自然，享受一个隐秘的森林休憩。"
+
+msgid "₱2,900/night"
+msgstr "₱ 2,900/晚"
+
+msgid "Hillside Haven"
+msgstr "山坡避风港"
+
+msgid "Wake up to misty mornings and panoramic hillside views."
+msgstr "醒来时，晨雾缭绕，山景全景尽收眼底。"
+
+msgid "₱3,100/night"
+msgstr "₱ 3,100/晚"
+
+msgid "Pinecrest Chalet"
+msgstr "松树小屋"
+
+msgid "Cozy up in a charming chalet surrounded by pine trees."
+msgstr "蜷缩在被松树环绕的迷人小屋中。"
+
+msgid "₱3,400/night"
+msgstr "₱ 3,400/晚"
+
+msgid "Beach Villa"
+msgstr "海滩别墅"
+
+msgid "₱4,500/night"
+msgstr "₱ 4,500/晚"
+
+msgid "Seaside Bungalow"
+msgstr "海滨别墅"
+
+msgid ""
+"Experience the charm of coastal living to a serene haven where the waves "
+"meets"
+msgstr "体验沿海生活的魅力，来到海浪交汇的宁静避风港。"
+
+msgid "Riverfront Haven"
+msgstr "河畔避风港"
+
+msgid ""
+"Calm river views and quiet mornings await in the soothing sounds of gently "
+"flowing water."
+msgstr "平静的河景和宁静的早晨等待着您，在轻柔流水带来的舒缓声音中。"
+
+msgid "₱4,000/night"
+msgstr "₱ 4,000/晚"
+
+msgid "Tropical Paradise"
+msgstr "热带天堂"
+
+msgid ""
+"Sun, sand, and serenity in every stay beachside retreat where the sun kisses "
+"your skin,"
+msgstr "阳光、沙滩和宁静在每一个海滨度假胜地，阳光亲吻你的皮肤，"
+
+msgid "₱4,700/night"
+msgstr "₱:每晚4,700元"
+
+msgid "Coastal Cottage"
+msgstr "海岸小屋"
+
+msgid ""
+"Chill out with ocean breezes and coastal charm sweep over you as you unwind "
+"in a cozy retreat."
+msgstr "在海风拂面，海岸的魅力环绕下放松身心，享受一个温馨的休憩之地。"
+
+msgid "₱3,900/night"
+msgstr "₱ 3,900/晚"
+
+msgid "Coral Sands Retreat"
+msgstr "珊瑚沙度假村"
+
+msgid "Soak in the sun with beachfront views and gentle waves."
+msgstr "在沙滩前，用海滩上，轻轻的波浪。"
+
+msgid "₱4,400/night"
+msgstr "₱:4,400元/晚"
+
+msgid "Skyline Penthouse"
+msgstr "天际顶层公寓"
+
+msgid "Luxury and city lights from your private penthouse."
+msgstr "来自您私人顶层公寓的豪华与城市灯光。"
+
+msgid "₱5,200/night"
+msgstr "第5 200/夜"
+
+msgid "Urban Loft"
+msgstr "城市阁楼"
+
+msgid ""
+"Stylish and modern city experience where urban sophistication meets "
+"contemporary comfort."
+msgstr "时尚和现代城市体验的现代城市体验，城市现代化体验。"
+
+msgid "Garden Villa"
+msgstr "花园别墅"
+
+msgid ""
+"Greenery and elegance in the heart of city to urban oasis where greenery "
+"meets."
+msgstr "从城市中心的绿意与优雅，到绿意交汇的城市绿洲。"
+
+msgid "₱4,200/night"
+msgstr "₱:每晚4,200元"
+
+msgid "Rustic Barnhouse"
+msgstr "乡村谷仓屋"
+
+msgid ""
+"Charming rustic vibes with comfort space that effortlessly combines warmth "
+"of rustic charm."
+msgstr "迷人的乡村风情与舒适空间，轻松结合了乡村魅力的温暖。"
+
+msgid "₱3,300/night"
+msgstr "₱:每晚3,300元"
+
+msgid "The Olive House"
+msgstr "橄榄屋"
+
+msgid "A peaceful modern home tucked in a quiet city neighborhood."
+msgstr "一个宁静的现代住宅，位于一个安静的城市社区。"
+
+msgid "₱4,100/night"
+msgstr "₱4,100/晚"
+
+msgid "Brickstone House"
+msgstr "砖石屋"
+
+msgid "Classic charm meets city convenience in this full private home."
+msgstr "经典魅力与城市便利在此全私人住宅中完美结合。"
+
+msgid "₱4,300/night"
+msgstr "₱:每晚4,300元"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. SINGLE STAYCATION PAGE
+#. --------------------------------------||
+#. Single Staycation Section
+msgid "Overnight"
+msgstr "过夜"
+
+msgid "Weekend Getaway"
+msgstr "周末逃跑了"
+
+msgid "Full Week"
+msgstr "整整一周"
+
+msgid "Breakfast Included"
+msgstr "含早餐"
+
+msgid "Late Checkout"
+msgstr "迟交支票"
+
+msgid "Spa Access"
+msgstr "水疗通道"
+
+msgid "Airport Pickup"
+msgstr "机场接送"
+
+msgid "Book Your Stay"
+msgstr "预订您的住宿"
+
+msgid "Number of Adults"
+msgstr "成人数量"
+
+msgid "Number of Kids"
+msgstr "儿童数量"
+
+msgid "Check-In Date"
+msgstr "入住日期"
+
+msgid "Check-Out Date"
+msgstr "退房日期"
+
+msgid "Choose Duration:"
+msgstr "选择时长:"
+
+msgid "Add Extras:"
+msgstr "添加额外内容:"
+
+msgid "Book Now"
+msgstr "立即预订"
+
+msgid "Staycation package not found."
+msgstr "未找到宅假套餐。"
+
+msgid "Popular Staycation Spots"
+msgstr "受欢迎的宅度假地点"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. CONTACT US PAGE
+#. --------------------------------------||
+#. Contact Header
+msgid "Let’s Make Your Stay Memorable 💌"
+msgstr "让我们让您的住宿难忘 💌"
+
+msgid "Have questions or special requests? We’re just a message away!"
+msgstr "有问题或特殊要求吗？ 我们只有一条消息之遥！"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Contact Us Location Section
+msgid "Get in Touch 🌿"
+msgstr "联系我们 🌿"
+
+msgid "Address:"
+msgstr "地址:"
+
+msgid "Brgy. Peaceful Pines, Tagaytay"
+msgstr "布拉吉。宁静的松树，塔盖泰"
+
+msgid "Phone:"
+msgstr "电话:"
+
+msgid "Email:"
+msgstr "电子邮件:"
+
+msgid "Hours:"
+msgstr "营业时间:"
+
+msgid "Open Daily: 9:00 AM – 6:00 PM"
+msgstr "营业时间:上午9:00 – 下午6:00"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. ACCOUNT PAGE
+#. --------------------------------------||
+#. Sign Up & Sign In Form Section
+msgid "Cozy Nest"
+msgstr "温馨巢穴"
+
+msgid "Log in with your account"
+msgstr "与你的帐户日志"
+
+msgid "Enter Email Address"
+msgstr "请输入电子邮件地址"
+
+msgid "Password"
+msgstr "用户名:"
+
+msgid "Enter Password"
+msgstr "输入密码"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Don't have an account?"
+msgstr "没有账户?"
+
+msgid "Create an Account"
+msgstr "创建帐户"
+
+msgid "Enter Full Name"
+msgstr "输入全名称"
+
+msgid "Already have an account?"
+msgstr "已有账号？"
+
+msgid "Welcome to Cozy-Nest 🌿"
+msgstr "欢迎来到温馨巢穴 🌿"
+
+msgid ""
+"At cozy-nest, we believe that comfort, calm, and connection should be at the "
+"heart of every getaway."
+msgstr "在温馨的巢穴中，我们相信舒适、宁静和连接应该是每次度假的核心。"
+
+msgid ""
+"Born from the idea of creating meaningful escapes, cozy-nest is your home "
+"away from home — whether"
+msgstr "源自创造有意义逃离的理念，温馨的巢穴是你的第二个家——无论是"
+
+msgid ""
+"you're nestled in a cabin in the woods, unwinding by the beach, or enjoying "
+"the charm of a rustic barnhouse."
+msgstr "你蜷缩在森林的小屋里，躺在海滩上放松，或者享受着乡村谷仓的魅力。"
+
+msgid ""
+"Our carefully curated staycations are designed to help you pause, breathe, "
+"and reconnect — with nature,"
+msgstr "我们精心策划的住宿体验旨在帮助您暂停、呼吸并重新连接大自然。"
+
+msgid "with your loved ones, and with yourself."
+msgstr "和你的亲人，以及你自己。"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Our Story Section
+msgid "Our Story"
+msgstr "我们的故事"
+
+msgid "cozy-nest"
+msgstr "温馨的巢穴"
+
+msgid "started with a simple mission:"
+msgstr "从一个简单的任务开始:"
+
+msgid "To make every stay feel like a warm hug."
+msgstr "让每一次入住都感觉像一个温暖的拥抱。"
+
+msgid ""
+"We noticed that people craved not just vacations, but intentional "
+"experiences."
+msgstr "我们注意到，人们不仅渴望假期，还渴望有目的的体验。"
+
+msgid "Not just a place to stay, but a place to belong. And so,"
+msgstr "不仅仅是一个居住的地方，更是一个归属的地方。 并且，"
+
+msgid ""
+"was born — a collection of charming and cozy spots designed for comfort, "
+"relaxation, and joy."
+msgstr "诞生了——一系列迷人而舒适的场所，旨在提供舒适、放松和欢乐。"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. What Make Us Special Section
+msgid "What Makes Us Special"
+msgstr "是什么让我们与众不同"
+
+msgid "Handpicked Stays"
+msgstr "精选住宿"
+
+msgid ""
+"Each location is chosen for its unique charm, natural beauty, and cozy "
+"ambiance."
+msgstr "每个地点都因其独特的魅力、自然美景和温馨的氛围而被选中。"
+
+msgid "Comfort-First Philosophy"
+msgstr "舒适优先的哲学"
+
+msgid "From soft linens to calming aesthetics, we prioritize your comfort."
+msgstr "从柔软的床单到宁静的美学，我们优先考虑您的舒适。"
+
+msgid "Nature-Inspired Escapes"
+msgstr "灵感源自自然的逃离"
+
+msgid "Reconnect with nature in serene, picturesque surroundings."
+msgstr "在宁静如画的环境中重新连接大自然。"
+
+msgid "Perfect for All"
+msgstr "适合所有人"
+
+msgid ""
+"Whether you're a solo traveler, couple, family, or group of friends, there's "
+"a cozy-nest for you."
+msgstr "无论是独自旅行、情侣、家庭还是朋友团体，总有一个温馨的巢穴适合你。"
+
+#. ---------------------------------------
+#. ---------------------------------------
+#. Our Promise Section
+msgid "Our Promise"
+msgstr "我们的承诺"
+
+msgid "We’re more than just a place to stay."
+msgstr "我们不仅仅是一个住宿的地方。"
+
+msgid "We’re a feeling."
+msgstr "我们是一种感觉。"
+
+msgid ""
+"A warm, safe, and inspiring space — thoughtfully designed just for you. "
+"Whether you're unwinding for the weekend or creating new memories, cozy-nest "
+"is your home of comfort and calm."
+msgstr ""
+"一个温暖、安全且充满灵感的空间——专门为您精心设计。 无论是周末放松还是创造新的"
+"回忆，温馨的巢穴都是你舒适和平静的家。"
+
+#. ---------------------------------------
+#. --------------------------------------||
+#. FAQ PAGE
+#. --------------------------------------||
+msgid "Frequently Asked Questions"
+msgstr "常见问题解答"
+
+msgid "What is cozy-nest?"
+msgstr "什么是温馨的巢穴？"
+
+msgid ""
+"cozy-nest is your ultimate staycation destination, providing a serene and "
+"cozy experience for everyone."
+msgstr "温馨的巢穴是您终极的宅度假目的地，为每个人提供宁静舒适的体验。"
+
+msgid "How do I make a reservation?"
+msgstr "我该如何预订？"
+
+msgid ""
+"You can make a reservation directly through our website by filling out the "
+"booking form or contacting us directly."
+msgstr "您可以通过我们的网站填写预订表格或直接联系我们进行预订。"
+
+msgid "What are the amenities offered?"
+msgstr "提供的设施有哪些？"
+
+msgid ""
+"We offer a range of amenities including a spa, pool, free Wi-Fi, and "
+"comfortable rooms with scenic views."
+msgstr ""
+"我们提供多种设施，包括水疗中心、游泳池、免费无线网络以及带有风景视野的舒适客"
+"房。"
+
+msgid "What is the check-in/check-out time?"
+msgstr "入住和退房的时间是什么时候？"
+
+msgid ""
+"Check-in time is from 2:00 PM, and check-out is by 12:00 PM. Special "
+"arrangements can be made upon request."
+msgstr "入住时间为下午2:00，退房时间为中午12:00。 可根据要求作出特殊安排。"
+
+msgid "Do you provide transportation services?"
+msgstr "你们提供交通服务吗？"
+
+msgid ""
+"Yes, we provide transportation services to and from the nearest airport and "
+"bus terminals. Please contact us for more details."
+msgstr ""
+"是的，我们提供往返最近的机场和汽车站的服务。 请联系我们以获取更多详情。"
+
+msgid "Is breakfast included in the package?"
+msgstr "早餐包含在套餐里吗？"
+
+msgid ""
+"Yes, breakfast is included in all staycation packages. Enjoy a variety of "
+"fresh, locally sourced breakfast options each morning."
+msgstr ""
+"是的，所有宅假套餐都包含早餐。 每天早晨享受多种新鲜的本地采购早餐选择。"
+
+msgid "Can I bring pets to cozy-nest?"
+msgstr "我可以带宠物去温馨的巢穴吗？"
+
+msgid ""
+"We are a pet-friendly facility! You are welcome to bring your furry friends. "
+"Please inform us in advance for any special accommodations."
+msgstr "我们是宠物设施！欢迎您将毛茸茸茸的朋友。请我们事先告知我们。"
+
+msgid "What is your cancellation policy?"
+msgstr "您的取消政策是什么？"
+
+msgid ""
+"Our cancellation policy allows free cancellation up to 48 hours before your "
+"check-in date. After that, a cancellation fee will apply."
+msgstr "取消政策允许取消政策，在检查日期前48小时。此后,取消收费将申请。"
+
+msgid "Last updated:"
+msgstr "最后更新:"
+
+msgid "1. Information We Collect"
+msgstr "1. 我们收集的信息"
+
+msgid ""
+"At cozy-nest, we value your privacy. We only collect personal data when it’s "
+"necessary for a cozy and seamless booking experience. This may include:"
+msgstr ""
+"在温馨的巢穴，我们重视您的隐私。 我们仅在需要提供温馨无缝的预订体验时才收集个"
+"人数据。 这可能包括:"
+
+msgid "Name, email, and contact details (when making a reservation)"
+msgstr "姓名、电子邮件和联系方式（预订时）"
+
+msgid "Preferences to personalize your stay"
+msgstr "个性化您的住宿偏好"
+
+msgid "Cookies for website functionality and analytics"
+msgstr "网站功能和分析用饼干"
+
+msgid "2. How We Use Your Information"
+msgstr "2. 我们如何使用您的信息"
+
+msgid ""
+"Your data helps us provide personalized staycation experiences, enhance our "
+"services, and ensure smooth communication with you."
+msgstr ""
+"您的数据帮助我们提供个性化的宅假体验，提升我们的服务，并确保与您的沟通顺畅。"
+
+msgid "3. Cookies"
+msgstr "3. 联系我们"
+
+msgid ""
+"We use cookies to remember your preferences and improve our site "
+"performance. You can manage your cookie settings through your browser."
+msgstr ""
+"我们使用饼干来记住您的偏好并提升网站性能。 您可以通过浏览器管理您的饼干设置。"
+
+msgid "4. Third-Party Services"
+msgstr "4. 第三方服务"
+
+msgid ""
+"We may use trusted third-party services (like payment gateways or analytics "
+"tools) that collect data as needed. Please review their policies for more "
+"information."
+msgstr ""
+"我们可能会使用可信的第三方服务（如支付网关或分析工具），根据需要收集数据。 请"
+"查阅他们的政策以获取更多信息。"
+
+msgid "5. Your Rights"
+msgstr "5. 你的权利"
+
+msgid ""
+"You have the right to access, update, or delete your personal data. We’re "
+"here to help you with that anytime."
+msgstr "您有权访问、更新或删除您的个人数据。 我们随时都在这里帮助你。"
+
+msgid "6. Contact Us"
+msgstr "6. 联系我们 / CONTACT US"
+
+msgid "Questions about our privacy policy? Let’s chat! Reach out to us at:"
+msgstr "关于我们的隐私政策的问题？ 让我们聊聊！ 请通过以下方式联系我们:"
+
+msgid "hello@cozy-nest.com"
+msgstr "翻译:你好@cozy-nest.com hello"

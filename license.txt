@@ -1,0 +1,26 @@
+Theme Name: Cozy Nest
+Author: Pikocode
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+All theme files, including code, images, and other assets, are distributed under the GPL v2 or later.
+
+Included Resources:
+
+1. Font: Open Sans
+   Source: https://fonts.google.com/specimen/Open+Sans
+   License: Apache License, Version 2.0
+
+2. Image: "Staycation Spots"
+   Source: https://unsplash.com/photos/xyz123
+   License: Unsplash License (GPL-Compatible)
+
+3. Image: “Staycation Home”
+   Source: https://unsplash.com/photos/xyz123
+   License: Unsplash License (GPL-Compatible)
+
+4. JavaScript Library: Swiper.js (used for sliders)
+   Source: https://swiperjs.com
+   License: MIT License
+
+This theme does not clone or replicate copyrighted designs.
